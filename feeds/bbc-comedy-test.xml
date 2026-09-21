@@ -16,7 +16,17 @@
     <itunes:author>Laszlo Harsanyi</itunes:author>
 
     <itunes:type>episodic</itunes:type>
-
+       
+    <image>
+    
+    <url>https://teyvattrave13r.github.io/audio-feeds/BBC_comedy.jpg</url>
+    
+    <title>BBC Comedy Archive Test</title>
+    
+    <link>https://teyvattrave13r.github.io/audio-feeds/</link>
+    
+    </image>
+       
     <item>
 
       <title>S02E01: Award</title>
