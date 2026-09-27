@@ -1,51 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 
-  <channel>
+<channel>
 
-    <title>8 Out of 10 Cats Does Countdown</title>
+<title>8 Out of 10 Cats Does Countdown</title>
 
-    <link>https://teyvattrave13r.github.io/audio-feeds/</link>
+<link>https://teyvattrave13r.github.io/audio-feeds/</link>
 
-    <description>
-      Personal archive feed for 8 Out of 10 Cats Does Countdown.
-    </description>
+<description>Personal archive feed for 8 Out of 10 Cats Does Countdown.</description>
 
-    <language>en-gb</language>
+<language>en-gb</language>
 
-    <itunes:author>Channel 4</itunes:author>
+<itunes:author>Channel 4</itunes:author>
 
-    <itunes:type>episodic</itunes:type>
+<itunes:type>episodic</itunes:type>
 
-    <image>
-      <url>https://teyvattrave13r.github.io/audio-feeds/cats_countdown.png</url>
-      <title>8 Out of 10 Cats Does Countdown</title>
-      <link>https://teyvattrave13r.github.io/audio-feeds/</link>
-    </image>
+<image>
+  <url>https://teyvattrave13r.github.io/audio-feeds/cats_countdown.png</url>
+  <title>8 Out of 10 Cats Does Countdown</title>
+  <link>https://teyvattrave13r.github.io/audio-feeds/</link>
+</image>
 
-    <item>
+<item>
 
-      <title>Pilot</title>
+<title>Pilot</title>
 
-      <guid>CATSCOUNTDOWN-S00E01</guid>
+<guid>CATSCOUNTDOWN-S00E01</guid>
 
-      <description>
-        Pilot Episode
-      </description>
+<description>Pilot Episode</description>
 
-      <pubDate>Mon, 28 Sep 2026 09:00:00 +0000</pubDate>
+<pubDate>Mon, 28 Sep 2026 09:00:00 +0000</pubDate>
 
-      <itunes:episodeType>full</itunes:episodeType>
+<itunes:episodeType>full</itunes:episodeType>
 
-      <enclosure
-        url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S00E01%20-%20Pilot%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4"
-        type="video/mp4"
-        length="1"/>
+<enclosure
+url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S00E01%20-%20Pilot%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4"
+type="video/mp4"
+length="1" />
 
-    </item>
+</item>
 
-  </channel>
+</channel>
 
 </rss>
