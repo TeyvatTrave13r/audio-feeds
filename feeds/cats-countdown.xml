@@ -1,47 +1,1497 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-
-<channel>
-
-<title>8 Out of 10 Cats Does Countdown</title>
-
-<link>https://teyvattrave13r.github.io/audio-feeds/</link>
-
-<description>Personal archive feed for 8 Out of 10 Cats Does Countdown.</description>
-
-<language>en-gb</language>
-
-<itunes:author>Channel 4</itunes:author>
-
-<itunes:type>episodic</itunes:type>
-
-<image>
-  <url>https://teyvattrave13r.github.io/audio-feeds/cats_countdown.png</url>
-  <title>8 Out of 10 Cats Does Countdown</title>
-  <link>https://teyvattrave13r.github.io/audio-feeds/</link>
-</image>
-
-<item>
-
-<title>Pilot</title>
-
-<guid>CATSCOUNTDOWN-S00E01</guid>
-
-<description>Pilot Episode</description>
-
-<pubDate>Mon, 28 Sep 2026 09:00:00 +0000</pubDate>
-
-<itunes:episodeType>full</itunes:episodeType>
-
-<enclosure
-url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S00E01%20-%20Pilot%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4"
-type="video/mp4"
-length="1" />
-
-</item>
-
-</channel>
-
+  <channel>
+    <title>8 Out of 10 Cats Does Countdown</title>
+    <link>https://teyvattrave13r.github.io/audio-feeds/</link>
+    <description>Personal video archive feed for 8 Out of 10 Cats Does Countdown.</description>
+    <language>en-gb</language>
+    <itunes:author>Channel 4</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://teyvattrave13r.github.io/audio-feeds/cats_countdown.png" />
+    <image>
+      <url>https://teyvattrave13r.github.io/audio-feeds/cats_countdown.png</url>
+      <title>8 Out of 10 Cats Does Countdown</title>
+      <link>https://teyvattrave13r.github.io/audio-feeds/</link>
+    </image>
+    <item>
+      <title>S00E01: Pilot</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S00E01</guid>
+      <description>8 Out of 10 Cats Does Countdown - Pilot</description>
+      <pubDate>Tue, 13 Jun 2023 07:43:00 +0000</pubDate>
+      <itunes:season>0</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S00E01%20-%20Pilot%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="144913203" type="video/mp4" />
+    </item>
+    <item>
+      <title>S00E02: The Rematch - Clarke Carlisle, Joe Wilkinson, David O'Doherty</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S00E02</guid>
+      <description>8 Out of 10 Cats Does Countdown - The Rematch - Clarke Carlisle, Joe Wilkinson, David O'Doherty</description>
+      <pubDate>Sat, 17 Jun 2023 15:04:00 +0000</pubDate>
+      <itunes:season>0</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S00E02%20-%20The%20Rematch%20-%20Clarke%20Carlisle%2C%20Joe%20Wilkinson%2C%20David%20O_Doherty%20%28SDTV%20x264%20AAC%29%20-RelaTVity.mp4" length="280389222" type="video/mp4" />
+    </item>
+    <item>
+      <title>S01E01: Lee Mack, Rob Beckett, Rhod Gilbert, Tim Key</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S01E01</guid>
+      <description>8 Out of 10 Cats Does Countdown - Lee Mack, Rob Beckett, Rhod Gilbert, Tim Key</description>
+      <pubDate>Tue, 13 Jun 2023 19:12:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S01E01%20-%20Lee%20Mack%2C%20Rob%20Beckett%2C%20Rhod%20Gilbert%2C%20Tim%20Key%20%28WEBDL-1080p%20x264%20AAC%20%5BEN%5D%29%20-CIWE.mp4" length="279550361" type="video/mp4" />
+    </item>
+    <item>
+      <title>S01E02: Lee Mack, Richard Osman, Stephen Mangan, Henning Wehn</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S01E02</guid>
+      <description>8 Out of 10 Cats Does Countdown - Lee Mack, Richard Osman, Stephen Mangan, Henning Wehn</description>
+      <pubDate>Tue, 13 Jun 2023 21:03:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S01E02%20-%20Lee%20Mack%2C%20Richard%20Osman%2C%20Stephen%20Mangan%2C%20Henning%20Wehn%20%28WEBDL-1080p%20x264%20AAC%20%5BEN%5D%29%20-CIWE.mp4" length="277872640" type="video/mp4" />
+    </item>
+    <item>
+      <title>S02E01: Jason Manford, Rhod Gilbert, Danny Dyer</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S02E01</guid>
+      <description>8 Out of 10 Cats Does Countdown - Jason Manford, Rhod Gilbert, Danny Dyer</description>
+      <pubDate>Tue, 13 Jun 2023 22:26:00 +0000</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S02E01%20-%20Jason%20Manford%2C%20Rhod%20Gilbert%2C%20Danny%20Dyer%20%28WEBDL-1080p%20x264%20AAC%20%5BEN%5D%29%20-RelaTVity-CIWE.mp4" length="278501785" type="video/mp4" />
+    </item>
+    <item>
+      <title>S02E02: Rhod Gilbert, Miles Jupp, Nick Helm</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S02E02</guid>
+      <description>8 Out of 10 Cats Does Countdown - Rhod Gilbert, Miles Jupp, Nick Helm</description>
+      <pubDate>Sat, 10 Jun 2023 11:31:00 +0000</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S02E02%20-%20Rhod%20Gilbert%2C%20Miles%20Jupp%2C%20Nick%20Helm%20%28WEBDL-1080p%20x264%20AAC%20%5BEN%5D%29%20-RelaTVity-CIWE.mp4" length="279130931" type="video/mp4" />
+    </item>
+    <item>
+      <title>S02E03: Humphrey Ker, Sarah Millican, Rich Hall</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S02E03</guid>
+      <description>8 Out of 10 Cats Does Countdown - Humphrey Ker, Sarah Millican, Rich Hall</description>
+      <pubDate>Sat, 10 Jun 2023 05:55:00 +0000</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S02E03%20-%20Humphrey%20Ker%2C%20Sarah%20Millican%2C%20Rich%20Hall%20%28WEBDL-1080p%20x264%20AAC%20%5BEN%5D%29%20-RelaTVity-CIWE.mp4" length="277662924" type="video/mp4" />
+    </item>
+    <item>
+      <title>S02E04: Sarah Millican, Chris Ramsey, Abandoman</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S02E04</guid>
+      <description>8 Out of 10 Cats Does Countdown - Sarah Millican, Chris Ramsey, Abandoman</description>
+      <pubDate>Sat, 10 Jun 2023 07:18:00 +0000</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S02E04%20-%20Sarah%20Millican%2C%20Chris%20Ramsey%2C%20Abandoman%20%28WEBDL-1080p%20x264%20AAC%20%5BEN%5D%29%20-RelaTVity-CIWE.mp4" length="277662924" type="video/mp4" />
+    </item>
+    <item>
+      <title>S02E05: Lee Mack, Bob Mortimer, Adam Hills, Alex Horne and The Horne Section</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S02E05</guid>
+      <description>8 Out of 10 Cats Does Countdown - Lee Mack, Bob Mortimer, Adam Hills, Alex Horne and The Horne Section</description>
+      <pubDate>Sat, 10 Jun 2023 08:42:00 +0000</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S02E05%20-%20Lee%20Mack%2C%20Bob%20Mortimer%2C%20Adam%20Hills%2C%20Alex%20Horne%20and%20The%20Horne%20Section%20%28WEBDL-1080p%20x264%20AAC%20%5BEN%5D%29%20-RelaTVity-CIWE.mp4" length="281437798" type="video/mp4" />
+    </item>
+    <item>
+      <title>S02E06: 1980s Special</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S02E06</guid>
+      <description>8 Out of 10 Cats Does Countdown - 1980s Special</description>
+      <pubDate>Sat, 10 Jun 2023 09:58:00 +0000</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S02E06%20-%201980s%20Special%20%281080p%20WEB-DL%20AAC2.0%20H.264%29-DJV.mp4" length="266338304" type="video/mp4" />
+    </item>
+    <item>
+      <title>S03E01: Rhod Gilbert, Kevin Bridges, Josie Long</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S03E01</guid>
+      <description>8 Out of 10 Cats Does Countdown - Rhod Gilbert, Kevin Bridges, Josie Long</description>
+      <pubDate>Sat, 10 Jun 2023 02:30:00 +0000</pubDate>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S03E01%20-%20Rhod%20Gilbert%2C%20Kevin%20Bridges%2C%20Josie%20Long%20%28WEBDL-1080p%20x264%20AAC%20%5BEN%5D%29%20-RelaTVity-CIWE.mp4" length="281962086" type="video/mp4" />
+    </item>
+    <item>
+      <title>S03E02: Miles Jupp, Aisling Bea, Nick Helm</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S03E02</guid>
+      <description>8 Out of 10 Cats Does Countdown - Miles Jupp, Aisling Bea, Nick Helm</description>
+      <pubDate>Wed, 14 Jun 2023 00:12:00 +0000</pubDate>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S03E02%20-%20Miles%20Jupp%2C%20Aisling%20Bea%2C%20Nick%20Helm%20%28WEBDL-1080p%20x264%20AAC%20%5BEN%5D%29%20-RelaTVity-CIWE.mp4" length="278816358" type="video/mp4" />
+    </item>
+    <item>
+      <title>S03E03: Kathy Burke, Josh Widdicombe, Dara O'Briain</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S03E03</guid>
+      <description>8 Out of 10 Cats Does Countdown - Kathy Burke, Josh Widdicombe, Dara O'Briain</description>
+      <pubDate>Sat, 10 Jun 2023 13:22:00 +0000</pubDate>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S03E03%20-%20Kathy%20Burke%2C%20Josh%20Widdicombe%2C%20Dara%20O_Briain%20%28WEBDL-1080p%20x264%20AAC%20%5BEN%5D%29%20-RelaTVity-CIWE.mp4" length="278816358" type="video/mp4" />
+    </item>
+    <item>
+      <title>S03E04: Dara O'Briain, Sharon Horgan, Adam Buxton</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S03E04</guid>
+      <description>8 Out of 10 Cats Does Countdown - Dara O'Briain, Sharon Horgan, Adam Buxton</description>
+      <pubDate>Fri, 09 Jun 2023 23:45:00 +0000</pubDate>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S03E04%20-%20Dara%20O_Briain%2C%20Sharon%20Horgan%2C%20Adam%20Buxton%20%28WEBDL-1080p%20x264%20AAC%20%5BEN%5D%29%20-RelaTVity-CIWE.mp4" length="277033779" type="video/mp4" />
+    </item>
+    <item>
+      <title>S03E05: Jack Dee, James Corden, Joe Lycett</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S03E05</guid>
+      <description>8 Out of 10 Cats Does Countdown - Jack Dee, James Corden, Joe Lycett</description>
+      <pubDate>Sat, 10 Jun 2023 18:20:00 +0000</pubDate>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S03E05%20-%20Jack%20Dee%2C%20James%20Corden%2C%20Joe%20Lycett%20%28WEBDL-1080p%20x264%20AAC%20%5BEN%5D%29%20-RelaTVity-CIWE.mp4" length="276194918" type="video/mp4" />
+    </item>
+    <item>
+      <title>S03E06: James Corden, Kevin Bridges, Peter Serafinowicz</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S03E06</guid>
+      <description>8 Out of 10 Cats Does Countdown - James Corden, Kevin Bridges, Peter Serafinowicz</description>
+      <pubDate>Sat, 10 Jun 2023 20:05:00 +0000</pubDate>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S03E06%20-%20James%20Corden%2C%20Kevin%20Bridges%2C%20Peter%20Serafinowicz%20%28WEBDL-1080p%20x264%20AAC%20%5BEN%5D%29%20-RelaTVity-CIWE.mp4" length="278082355" type="video/mp4" />
+    </item>
+    <item>
+      <title>S04E01: Roisin Conaty, Jonathan Ross, David O'Doherty</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S04E01</guid>
+      <description>8 Out of 10 Cats Does Countdown - Roisin Conaty, Jonathan Ross, David O'Doherty</description>
+      <pubDate>Sat, 10 Jun 2023 22:00:00 +0000</pubDate>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S04E01%20-%20Roisin%20Conaty%2C%20Jonathan%20Ross%2C%20David%20O_Doherty%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="276824064" type="video/mp4" />
+    </item>
+    <item>
+      <title>S04E02: Andrew Flintoff, Rhod Gilbert, Henning Wehn</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S04E02</guid>
+      <description>8 Out of 10 Cats Does Countdown - Andrew Flintoff, Rhod Gilbert, Henning Wehn</description>
+      <pubDate>Sat, 10 Jun 2023 23:44:00 +0000</pubDate>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S04E02%20-%20Andrew%20Flintoff%2C%20Rhod%20Gilbert%2C%20Henning%20Wehn%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="276824064" type="video/mp4" />
+    </item>
+    <item>
+      <title>S04E03: Josie Long, Rob Beckett, Vic Reeves</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S04E03</guid>
+      <description>8 Out of 10 Cats Does Countdown - Josie Long, Rob Beckett, Vic Reeves</description>
+      <pubDate>Sun, 11 Jun 2023 03:18:00 +0000</pubDate>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S04E03%20-%20Josie%20Long%2C%20Rob%20Beckett%2C%20Vic%20Reeves%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="279026073" type="video/mp4" />
+    </item>
+    <item>
+      <title>S04E04: Stephen Mangan, Jason Manford, Tim Key</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S04E04</guid>
+      <description>8 Out of 10 Cats Does Countdown - Stephen Mangan, Jason Manford, Tim Key</description>
+      <pubDate>Wed, 14 Jun 2023 01:41:00 +0000</pubDate>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S04E04%20-%20Stephen%20Mangan%2C%20Jason%20Manford%2C%20Tim%20Key%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="269274316" type="video/mp4" />
+    </item>
+    <item>
+      <title>S04E05: Jo Brand, Claudia Winkleman, Bill Bailey</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S04E05</guid>
+      <description>8 Out of 10 Cats Does Countdown - Jo Brand, Claudia Winkleman, Bill Bailey</description>
+      <pubDate>Sat, 10 Jun 2023 14:58:00 +0000</pubDate>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S04E05%20-%20Jo%20Brand%2C%20Claudia%20Winkleman%2C%20Bill%20Bailey%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="276719206" type="video/mp4" />
+    </item>
+    <item>
+      <title>S04E06: Bill Bailey, Josh Widdicombe, Jake Yapp</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S04E06</guid>
+      <description>8 Out of 10 Cats Does Countdown - Bill Bailey, Josh Widdicombe, Jake Yapp</description>
+      <pubDate>Sat, 10 Jun 2023 01:06:00 +0000</pubDate>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S04E06%20-%20Bill%20Bailey%2C%20Josh%20Widdicombe%2C%20Jake%20Yapp%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="277348352" type="video/mp4" />
+    </item>
+    <item>
+      <title>S04E07: Bob Mortimer, Richard Osman, Matthew Crosby</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S04E07</guid>
+      <description>8 Out of 10 Cats Does Countdown - Bob Mortimer, Richard Osman, Matthew Crosby</description>
+      <pubDate>Fri, 09 Jun 2023 14:51:00 +0000</pubDate>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S04E07%20-%20Bob%20Mortimer%2C%20Richard%20Osman%2C%20Matthew%20Crosby%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="273573478" type="video/mp4" />
+    </item>
+    <item>
+      <title>S05E01: David Mitchell, Roisin Conaty, Phill Jupitus</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S05E01</guid>
+      <description>8 Out of 10 Cats Does Countdown - David Mitchell, Roisin Conaty, Phill Jupitus</description>
+      <pubDate>Sat, 10 Jun 2023 16:38:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S05E01%20-%20David%20Mitchell%2C%20Roisin%20Conaty%2C%20Phill%20Jupitus%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="271161753" type="video/mp4" />
+    </item>
+    <item>
+      <title>S05E02: David Baddiel, Trevor Noah, Joey Essex</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S05E02</guid>
+      <description>8 Out of 10 Cats Does Countdown - David Baddiel, Trevor Noah, Joey Essex</description>
+      <pubDate>Wed, 14 Jun 2023 03:06:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S05E02%20-%20David%20Baddiel%2C%20Trevor%20Noah%2C%20Joey%20Essex%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="273573478" type="video/mp4" />
+    </item>
+    <item>
+      <title>S05E03: Vic Reeves, Jo Brand, Adam Buxton</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S05E03</guid>
+      <description>8 Out of 10 Cats Does Countdown - Vic Reeves, Jo Brand, Adam Buxton</description>
+      <pubDate>Wed, 14 Jun 2023 04:23:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S05E03%20-%20Vic%20Reeves%2C%20Jo%20Brand%2C%20Adam%20Buxton%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="277558067" type="video/mp4" />
+    </item>
+    <item>
+      <title>S06E00: Christmas Special 2014</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S06E00</guid>
+      <description>8 Out of 10 Cats Does Countdown - Christmas Special 2014</description>
+      <pubDate>Tue, 13 Jun 2023 09:10:00 +0000</pubDate>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>0</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S06E00%20-%20Christmas%20Special%202014%20%281080p%20ALL4%20WEB-DL%20AAC2.0%20H.264%29-RelaTVity.mp4" length="281647513" type="video/mp4" />
+    </item>
+    <item>
+      <title>S06E01: David Mitchell, Katherine Ryan, David O'Doherty</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S06E01</guid>
+      <description>8 Out of 10 Cats Does Countdown - David Mitchell, Katherine Ryan, David O'Doherty</description>
+      <pubDate>Mon, 12 Jun 2023 20:24:00 +0000</pubDate>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S06E01%20-%20David%20Mitchell%2C%20Katherine%20Ryan%2C%20David%20O_Doherty%20%28HDTV-720p%20x264%20AAC%29%20-Sonarr.mp4" length="274936627" type="video/mp4" />
+    </item>
+    <item>
+      <title>S06E02: Roisin Conaty, Jack Whitehall, Rob Beckett</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S06E02</guid>
+      <description>8 Out of 10 Cats Does Countdown - Roisin Conaty, Jack Whitehall, Rob Beckett</description>
+      <pubDate>Wed, 14 Jun 2023 05:46:00 +0000</pubDate>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S06E02%20-%20Roisin%20Conaty%2C%20Jack%20Whitehall%2C%20Rob%20Beckett%20%28HDTV-720p%20x264%20AAC%29%20-Sonarr.mp4" length="276824064" type="video/mp4" />
+    </item>
+    <item>
+      <title>S06E03: Reginald D. Hunter, Aisling Bea, Holly Walsh</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S06E03</guid>
+      <description>8 Out of 10 Cats Does Countdown - Reginald D. Hunter, Aisling Bea, Holly Walsh</description>
+      <pubDate>Wed, 14 Jun 2023 09:23:00 +0000</pubDate>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S06E03%20-%20Reginald%20D.%20Hunter%2C%20Aisling%20Bea%2C%20Holly%20Walsh%20%28HDTV-720p%20x264%20AAC%29%20-Sonarr.mp4" length="273678336" type="video/mp4" />
+    </item>
+    <item>
+      <title>S06E04: Romesh Ranganathan, Johnny Vegas, Josie Long</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S06E04</guid>
+      <description>8 Out of 10 Cats Does Countdown - Romesh Ranganathan, Johnny Vegas, Josie Long</description>
+      <pubDate>Wed, 14 Jun 2023 10:45:00 +0000</pubDate>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S06E04%20-%20Romesh%20Ranganathan%2C%20Johnny%20Vegas%2C%20Josie%20Long%20%28HDTV-720p%20x264%20AAC%29%20-Sonarr.mp4" length="271581184" type="video/mp4" />
+    </item>
+    <item>
+      <title>S06E05: Vic Reeves, Bob Mortimer, Jack Whitehall</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S06E05</guid>
+      <description>8 Out of 10 Cats Does Countdown - Vic Reeves, Bob Mortimer, Jack Whitehall</description>
+      <pubDate>Wed, 14 Jun 2023 14:54:00 +0000</pubDate>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S06E05%20-%20Vic%20Reeves%2C%20Bob%20Mortimer%2C%20Jack%20Whitehall%20%28HDTV-720p%20x264%20AAC%29%20-Sonarr.mp4" length="277033779" type="video/mp4" />
+    </item>
+    <item>
+      <title>S06E06: Sarah Millican, Jason Manford, Jonathan Ross, Bill Bailey</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S06E06</guid>
+      <description>8 Out of 10 Cats Does Countdown - Sarah Millican, Jason Manford, Jonathan Ross, Bill Bailey</description>
+      <pubDate>Mon, 19 Jun 2023 23:17:00 +0000</pubDate>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S06E06%20-%20Sarah%20Millican%2C%20Jason%20Manford%2C%20Jonathan%20Ross%2C%20Bill%20Bailey%20%28HDTV-720p%20x264%20AAC%29%20-Sonarr.mp4" length="276719206" type="video/mp4" />
+    </item>
+    <item>
+      <title>S07E01: Sarah Millican, Bill Bailey, Rob Delaney, Nina Conti</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S07E01</guid>
+      <description>8 Out of 10 Cats Does Countdown - Sarah Millican, Bill Bailey, Rob Delaney, Nina Conti</description>
+      <pubDate>Wed, 14 Jun 2023 16:37:00 +0000</pubDate>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S07E01%20-%20Sarah%20Millican%2C%20Bill%20Bailey%2C%20Rob%20Delaney%2C%20Nina%20Conti%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="278711500" type="video/mp4" />
+    </item>
+    <item>
+      <title>S07E02: Kevin Bridges, Kathy Burke, Joe Lycett, Nick Helm</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S07E02</guid>
+      <description>8 Out of 10 Cats Does Countdown - Kevin Bridges, Kathy Burke, Joe Lycett, Nick Helm</description>
+      <pubDate>Wed, 14 Jun 2023 18:16:00 +0000</pubDate>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S07E02%20-%20Kevin%20Bridges%2C%20Kathy%20Burke%2C%20Joe%20Lycett%2C%20Nick%20Helm%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="271895756" type="video/mp4" />
+    </item>
+    <item>
+      <title>S07E03: Rhod Gilbert, Sara Pascoe, Johnny Vegas, Joey Essex</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S07E03</guid>
+      <description>8 Out of 10 Cats Does Countdown - Rhod Gilbert, Sara Pascoe, Johnny Vegas, Joey Essex</description>
+      <pubDate>Wed, 14 Jun 2023 19:57:00 +0000</pubDate>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S07E03%20-%20Rhod%20Gilbert%2C%20Sara%20Pascoe%2C%20Johnny%20Vegas%2C%20Joey%20Essex%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="270008320" type="video/mp4" />
+    </item>
+    <item>
+      <title>S07E04: Katherine Ryan, Rob Beckett, Greg Davies</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S07E04</guid>
+      <description>8 Out of 10 Cats Does Countdown - Katherine Ryan, Rob Beckett, Greg Davies</description>
+      <pubDate>Wed, 14 Jun 2023 21:24:00 +0000</pubDate>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S07E04%20-%20Katherine%20Ryan%2C%20Rob%20Beckett%2C%20Greg%20Davies%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="280389222" type="video/mp4" />
+    </item>
+    <item>
+      <title>S07E05: Miles Jupp, Greg Davies, Holly Walsh</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S07E05</guid>
+      <description>8 Out of 10 Cats Does Countdown - Miles Jupp, Greg Davies, Holly Walsh</description>
+      <pubDate>Wed, 14 Jun 2023 22:59:00 +0000</pubDate>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S07E05%20-%20Miles%20Jupp%2C%20Greg%20Davies%2C%20Holly%20Walsh%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="278501785" type="video/mp4" />
+    </item>
+    <item>
+      <title>S07E06: Vic Reeves, Lee Mack, Sara Pascoe, Alex Horne</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S07E06</guid>
+      <description>8 Out of 10 Cats Does Countdown - Vic Reeves, Lee Mack, Sara Pascoe, Alex Horne</description>
+      <pubDate>Thu, 15 Jun 2023 00:29:00 +0000</pubDate>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S07E06%20-%20Vic%20Reeves%2C%20Lee%20Mack%2C%20Sara%20Pascoe%2C%20Alex%20Horne%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="277453209" type="video/mp4" />
+    </item>
+    <item>
+      <title>S07E07: Bob Mortimer, Sarah Millican, Katherine Ryan, Alex Horne</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S07E07</guid>
+      <description>8 Out of 10 Cats Does Countdown - Bob Mortimer, Sarah Millican, Katherine Ryan, Alex Horne</description>
+      <pubDate>Thu, 15 Jun 2023 02:12:00 +0000</pubDate>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S07E07%20-%20Bob%20Mortimer%2C%20Sarah%20Millican%2C%20Katherine%20Ryan%2C%20Alex%20Horne%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="276194918" type="video/mp4" />
+    </item>
+    <item>
+      <title>S07E08: Roisin Conaty, Sarah Millican, Rhod Gilbert, David O'Doherty</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S07E08</guid>
+      <description>8 Out of 10 Cats Does Countdown - Roisin Conaty, Sarah Millican, Rhod Gilbert, David O'Doherty</description>
+      <pubDate>Thu, 15 Jun 2023 03:46:00 +0000</pubDate>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S07E08%20-%20Roisin%20Conaty%2C%20Sarah%20Millican%2C%20Rhod%20Gilbert%2C%20David%20O_Doherty%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="276509491" type="video/mp4" />
+    </item>
+    <item>
+      <title>S07E09: Seann Walsh, Joe Wilkinson, Danny Dyer, Bill Bailey</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S07E09</guid>
+      <description>8 Out of 10 Cats Does Countdown - Seann Walsh, Joe Wilkinson, Danny Dyer, Bill Bailey</description>
+      <pubDate>Sat, 17 Jun 2023 05:15:00 +0000</pubDate>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S07E09%20-%20Seann%20Walsh%2C%20Joe%20Wilkinson%2C%20Danny%20Dyer%2C%20Bill%20Bailey%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="275251200" type="video/mp4" />
+    </item>
+    <item>
+      <title>S07E10: Johnny Vegas, Sarah Millican, Rob Beckett, Vic Reeves</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S07E10</guid>
+      <description>8 Out of 10 Cats Does Countdown - Johnny Vegas, Sarah Millican, Rob Beckett, Vic Reeves</description>
+      <pubDate>Thu, 15 Jun 2023 09:59:00 +0000</pubDate>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S07E10%20-%20Johnny%20Vegas%2C%20Sarah%20Millican%2C%20Rob%20Beckett%2C%20Vic%20Reeves%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="277662924" type="video/mp4" />
+    </item>
+    <item>
+      <title>S07E11: Mel Giedroyc, Lee Mack, David O'Doherty, Adam Buxton</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S07E11</guid>
+      <description>8 Out of 10 Cats Does Countdown - Mel Giedroyc, Lee Mack, David O'Doherty, Adam Buxton</description>
+      <pubDate>Sat, 17 Jun 2023 06:32:00 +0000</pubDate>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S07E11%20-%20Mel%20Giedroyc%2C%20Lee%20Mack%2C%20David%20O_Doherty%2C%20Adam%20Buxton%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="278501785" type="video/mp4" />
+    </item>
+    <item>
+      <title>S07E12: Freddie Flintoff, Bill Bailey, Roisin Conaty, Rob Beckett</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S07E12</guid>
+      <description>8 Out of 10 Cats Does Countdown - Freddie Flintoff, Bill Bailey, Roisin Conaty, Rob Beckett</description>
+      <pubDate>Tue, 13 Jun 2023 17:03:00 +0000</pubDate>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S07E12%20-%20Freddie%20Flintoff%2C%20Bill%20Bailey%2C%20Roisin%20Conaty%2C%20Rob%20Beckett%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="271790899" type="video/mp4" />
+    </item>
+    <item>
+      <title>S07E13: Liza Tarbuck, Sarah Millican, Romesh Ranganathan, Phill Jupitus</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S07E13</guid>
+      <description>8 Out of 10 Cats Does Countdown - Liza Tarbuck, Sarah Millican, Romesh Ranganathan, Phill Jupitus</description>
+      <pubDate>Tue, 13 Jun 2023 12:54:00 +0000</pubDate>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S07E13%20-%20Liza%20Tarbuck%2C%20Sarah%20Millican%2C%20Romesh%20Ranganathan%2C%20Phill%20Jupitus%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="271581184" type="video/mp4" />
+    </item>
+    <item>
+      <title>S07E14: Bill Bailey, Joe Wilkinson, Isy Suttie, Joe Lycett</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S07E14</guid>
+      <description>8 Out of 10 Cats Does Countdown - Bill Bailey, Joe Wilkinson, Isy Suttie, Joe Lycett</description>
+      <pubDate>Thu, 15 Jun 2023 13:13:00 +0000</pubDate>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S07E14%20-%20Bill%20Bailey%2C%20Joe%20Wilkinson%2C%20Isy%20Suttie%2C%20Joe%20Lycett%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="278187212" type="video/mp4" />
+    </item>
+    <item>
+      <title>S07E15: Henning Wehn, Bill Bailey, Jessica Hynes, Tom Allen</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S07E15</guid>
+      <description>8 Out of 10 Cats Does Countdown - Henning Wehn, Bill Bailey, Jessica Hynes, Tom Allen</description>
+      <pubDate>Thu, 15 Jun 2023 14:38:00 +0000</pubDate>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S07E15%20-%20Henning%20Wehn%2C%20Bill%20Bailey%2C%20Jessica%20Hynes%2C%20Tom%20Allen%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="272524902" type="video/mp4" />
+    </item>
+    <item>
+      <title>S07E16: Sara Pascoe, Josh Widdicombe, Alex Horne</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S07E16</guid>
+      <description>8 Out of 10 Cats Does Countdown - Sara Pascoe, Josh Widdicombe, Alex Horne</description>
+      <pubDate>Thu, 15 Jun 2023 16:01:00 +0000</pubDate>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S07E16%20-%20Sara%20Pascoe%2C%20Josh%20Widdicombe%2C%20Alex%20Horne%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="271581184" type="video/mp4" />
+    </item>
+    <item>
+      <title>S07E17: Greg Davies, Holly Walsh, Vic Reeves</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S07E17</guid>
+      <description>8 Out of 10 Cats Does Countdown - Greg Davies, Holly Walsh, Vic Reeves</description>
+      <pubDate>Fri, 09 Jun 2023 22:22:00 +0000</pubDate>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S07E17%20-%20Greg%20Davies%2C%20Holly%20Walsh%2C%20Vic%20Reeves%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="271581184" type="video/mp4" />
+    </item>
+    <item>
+      <title>S08E00: Christmas Special 2015</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S08E00</guid>
+      <description>8 Out of 10 Cats Does Countdown - Christmas Special 2015</description>
+      <pubDate>Thu, 08 Jun 2023 20:09:00 +0000</pubDate>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>0</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S08E00%20-%20Christmas%20Special%202015%20%281080p%20ALL4%20WEB-DL%20AAC2.0%20H.264%29-RelaTVity.mp4" length="283115520" type="video/mp4" />
+    </item>
+    <item>
+      <title>S08E01: Jason Manford, Roisin Conaty, Sam Simmons</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S08E01</guid>
+      <description>8 Out of 10 Cats Does Countdown - Jason Manford, Roisin Conaty, Sam Simmons</description>
+      <pubDate>Thu, 15 Jun 2023 17:35:00 +0000</pubDate>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S08E01%20-%20Jason%20Manford%2C%20Roisin%20Conaty%2C%20Sam%20Simmons%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="276824064" type="video/mp4" />
+    </item>
+    <item>
+      <title>S08E02: Rob Beckett, Cariad Lloyd, Jamie Laing</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S08E02</guid>
+      <description>8 Out of 10 Cats Does Countdown - Rob Beckett, Cariad Lloyd, Jamie Laing</description>
+      <pubDate>Thu, 15 Jun 2023 19:06:00 +0000</pubDate>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S08E02%20-%20Rob%20Beckett%2C%20Cariad%20Lloyd%2C%20Jamie%20Laing%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="278501785" type="video/mp4" />
+    </item>
+    <item>
+      <title>S08E03: Miles Jupp, Sara Pascoe, Sam Simmons</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S08E03</guid>
+      <description>8 Out of 10 Cats Does Countdown - Miles Jupp, Sara Pascoe, Sam Simmons</description>
+      <pubDate>Thu, 15 Jun 2023 20:51:00 +0000</pubDate>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S08E03%20-%20Miles%20Jupp%2C%20Sara%20Pascoe%2C%20Sam%20Simmons%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="277662924" type="video/mp4" />
+    </item>
+    <item>
+      <title>S08E04: Isy Suttie, Richard Osman, Alex Horne</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S08E04</guid>
+      <description>8 Out of 10 Cats Does Countdown - Isy Suttie, Richard Osman, Alex Horne</description>
+      <pubDate>Thu, 15 Jun 2023 22:18:00 +0000</pubDate>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S08E04%20-%20Isy%20Suttie%2C%20Richard%20Osman%2C%20Alex%20Horne%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="279235788" type="video/mp4" />
+    </item>
+    <item>
+      <title>S09E01: Vic Reeves, Aisling Bea, David O'Doherty</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S09E01</guid>
+      <description>8 Out of 10 Cats Does Countdown - Vic Reeves, Aisling Bea, David O'Doherty</description>
+      <pubDate>Thu, 15 Jun 2023 11:25:00 +0000</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S09E01%20-%20Vic%20Reeves%2C%20Aisling%20Bea%2C%20David%20O_Doherty%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="278501785" type="video/mp4" />
+    </item>
+    <item>
+      <title>S09E02: Bob Mortimer, Holly Walsh, Isy Suttie, Claudia Winkleman</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S09E02</guid>
+      <description>8 Out of 10 Cats Does Countdown - Bob Mortimer, Holly Walsh, Isy Suttie, Claudia Winkleman</description>
+      <pubDate>Thu, 15 Jun 2023 23:38:00 +0000</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S09E02%20-%20Bob%20Mortimer%2C%20Holly%20Walsh%2C%20Isy%20Suttie%2C%20Claudia%20Winkleman%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="275880345" type="video/mp4" />
+    </item>
+    <item>
+      <title>S09E03: Alex Brooker, Johnny Vegas, Sara Pascoe, Tom Allen, Claudia Winkleman, Rob Beckett</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S09E03</guid>
+      <description>8 Out of 10 Cats Does Countdown - Alex Brooker, Johnny Vegas, Sara Pascoe, Tom Allen, Claudia Winkleman, Rob Beckett</description>
+      <pubDate>Fri, 16 Jun 2023 03:06:00 +0000</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S09E03%20-%20Alex%20Brooker%2C%20Johnny%20Vegas%2C%20Sara%20Pascoe%2C%20Tom%20Allen%2C%20Claudia%20Winkleman%2C%20Rob%20Beckett%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="279235788" type="video/mp4" />
+    </item>
+    <item>
+      <title>S09E04: Rebecca Front, Kevin Bridges, Joe Lycett</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S09E04</guid>
+      <description>8 Out of 10 Cats Does Countdown - Rebecca Front, Kevin Bridges, Joe Lycett</description>
+      <pubDate>Fri, 16 Jun 2023 05:21:00 +0000</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S09E04%20-%20Rebecca%20Front%2C%20Kevin%20Bridges%2C%20Joe%20Lycett%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="270322892" type="video/mp4" />
+    </item>
+    <item>
+      <title>S09E05: Katherine Ryan, David Mitchell, Nick Helm</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S09E05</guid>
+      <description>8 Out of 10 Cats Does Countdown - Katherine Ryan, David Mitchell, Nick Helm</description>
+      <pubDate>Mon, 12 Jun 2023 22:36:00 +0000</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S09E05%20-%20Katherine%20Ryan%2C%20David%20Mitchell%2C%20Nick%20Helm%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="279130931" type="video/mp4" />
+    </item>
+    <item>
+      <title>S10E01: Henning Wehn, Victoria Coren Mitchell, Tom Allen</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S10E01</guid>
+      <description>8 Out of 10 Cats Does Countdown - Henning Wehn, Victoria Coren Mitchell, Tom Allen</description>
+      <pubDate>Tue, 13 Jun 2023 11:25:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S10E01%20-%20Henning%20Wehn%2C%20Victoria%20Coren%20Mitchell%2C%20Tom%20Allen%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="277558067" type="video/mp4" />
+    </item>
+    <item>
+      <title>S10E02: Roisin Conaty, Nish Kumar, Adam Buxton</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S10E02</guid>
+      <description>8 Out of 10 Cats Does Countdown - Roisin Conaty, Nish Kumar, Adam Buxton</description>
+      <pubDate>Fri, 16 Jun 2023 07:24:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S10E02%20-%20Roisin%20Conaty%2C%20Nish%20Kumar%2C%20Adam%20Buxton%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="272839475" type="video/mp4" />
+    </item>
+    <item>
+      <title>S10E03: David O'Doherty, Natasia Demetriou, John Kearns</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S10E03</guid>
+      <description>8 Out of 10 Cats Does Countdown - David O'Doherty, Natasia Demetriou, John Kearns</description>
+      <pubDate>Fri, 16 Jun 2023 09:26:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S10E03%20-%20David%20O_Doherty%2C%20Natasia%20Demetriou%2C%20John%20Kearns%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="276194918" type="video/mp4" />
+    </item>
+    <item>
+      <title>S10E04: David Mitchell, Katherine Ryan, Brett Domino Trio</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S10E04</guid>
+      <description>8 Out of 10 Cats Does Countdown - David Mitchell, Katherine Ryan, Brett Domino Trio</description>
+      <pubDate>Fri, 16 Jun 2023 12:05:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S10E04%20-%20David%20Mitchell%2C%20Katherine%20Ryan%2C%20Brett%20Domino%20Trio%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="277138636" type="video/mp4" />
+    </item>
+    <item>
+      <title>S10E05: Claudia Winkleman, Johnny Vegas, Reginald D. Hunter, Sara Pascoe</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S10E05</guid>
+      <description>8 Out of 10 Cats Does Countdown - Claudia Winkleman, Johnny Vegas, Reginald D. Hunter, Sara Pascoe</description>
+      <pubDate>Fri, 16 Jun 2023 14:15:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S10E05%20-%20Claudia%20Winkleman%2C%20Johnny%20Vegas%2C%20Reginald%20D.%20Hunter%2C%20Sara%20Pascoe%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="271686041" type="video/mp4" />
+    </item>
+    <item>
+      <title>S11E01: David Walliams, Jonathan Ross, Joe Lycett, Isy Suttie</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S11E01</guid>
+      <description>8 Out of 10 Cats Does Countdown - David Walliams, Jonathan Ross, Joe Lycett, Isy Suttie</description>
+      <pubDate>Fri, 16 Jun 2023 16:26:00 +0000</pubDate>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S11E01%20-%20David%20Walliams%2C%20Jonathan%20Ross%2C%20Joe%20Lycett%2C%20Isy%20Suttie%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="276509491" type="video/mp4" />
+    </item>
+    <item>
+      <title>S11E02: Lee Mack, Catherine Tate, Miles Jupp, John Cooper Clarke</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S11E02</guid>
+      <description>8 Out of 10 Cats Does Countdown - Lee Mack, Catherine Tate, Miles Jupp, John Cooper Clarke</description>
+      <pubDate>Fri, 16 Jun 2023 18:29:00 +0000</pubDate>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S11E02%20-%20Lee%20Mack%2C%20Catherine%20Tate%2C%20Miles%20Jupp%2C%20John%20Cooper%20Clarke%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="271266611" type="video/mp4" />
+    </item>
+    <item>
+      <title>S11E03: David Walliams, Jessica Hynes, Rhod Gilbert, Sam Simmons</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S11E03</guid>
+      <description>8 Out of 10 Cats Does Countdown - David Walliams, Jessica Hynes, Rhod Gilbert, Sam Simmons</description>
+      <pubDate>Fri, 16 Jun 2023 20:49:00 +0000</pubDate>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S11E03%20-%20David%20Walliams%2C%20Jessica%20Hynes%2C%20Rhod%20Gilbert%2C%20Sam%20Simmons%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="273992908" type="video/mp4" />
+    </item>
+    <item>
+      <title>S11E04: Lee Mack, Bob Mortimer, Victoria Coren Mitchell, Alex Horne</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S11E04</guid>
+      <description>8 Out of 10 Cats Does Countdown - Lee Mack, Bob Mortimer, Victoria Coren Mitchell, Alex Horne</description>
+      <pubDate>Sat, 10 Jun 2023 04:34:00 +0000</pubDate>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S11E04%20-%20Lee%20Mack%2C%20Bob%20Mortimer%2C%20Victoria%20Coren%20Mitchell%2C%20Alex%20Horne%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="272105472" type="video/mp4" />
+    </item>
+    <item>
+      <title>S11E05: Richard Ayoade, Rob Beckett, Claudia Winkleman, Adam Riches</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S11E05</guid>
+      <description>8 Out of 10 Cats Does Countdown - Richard Ayoade, Rob Beckett, Claudia Winkleman, Adam Riches</description>
+      <pubDate>Fri, 16 Jun 2023 23:00:00 +0000</pubDate>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S11E05%20-%20Richard%20Ayoade%2C%20Rob%20Beckett%2C%20Claudia%20Winkleman%2C%20Adam%20Riches%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="270952038" type="video/mp4" />
+    </item>
+    <item>
+      <title>S11E06: Danny Dyer, Joe Wilkinson, Gabby Logan, David O'Doherty</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S11E06</guid>
+      <description>8 Out of 10 Cats Does Countdown - Danny Dyer, Joe Wilkinson, Gabby Logan, David O'Doherty</description>
+      <pubDate>Thu, 08 Jun 2023 23:54:00 +0000</pubDate>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S11E06%20-%20Danny%20Dyer%2C%20Joe%20Wilkinson%2C%20Gabby%20Logan%2C%20David%20O_Doherty%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="271581184" type="video/mp4" />
+    </item>
+    <item>
+      <title>S11E07: David Mitchell, Cariad Lloyd, Russell Howard, Sam Simmons</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S11E07</guid>
+      <description>8 Out of 10 Cats Does Countdown - David Mitchell, Cariad Lloyd, Russell Howard, Sam Simmons</description>
+      <pubDate>Fri, 09 Jun 2023 02:04:00 +0000</pubDate>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S11E07%20-%20David%20Mitchell%2C%20Cariad%20Lloyd%2C%20Russell%20Howard%2C%20Sam%20Simmons%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="275356057" type="video/mp4" />
+    </item>
+    <item>
+      <title>S12E00: Christmas Special 2016</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S12E00-CHRISTMASSPECIAL2016</guid>
+      <description>8 Out of 10 Cats Does Countdown - Christmas Special 2016</description>
+      <pubDate>Thu, 08 Jun 2023 16:31:00 +0000</pubDate>
+      <itunes:season>12</itunes:season>
+      <itunes:episode>0</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S12E00%20-%20Christmas%20Special%202016%20%281080p%20ALL4%20WEB-DL%20AAC2.0%20H.264%29-RelaTVity.mp4" length="276090060" type="video/mp4" />
+    </item>
+    <item>
+      <title>S12E00: New Year Special 2016</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S12E00-NEWYEARSPECIAL2016</guid>
+      <description>8 Out of 10 Cats Does Countdown - New Year Special 2016</description>
+      <pubDate>Fri, 09 Jun 2023 05:46:00 +0000</pubDate>
+      <itunes:season>12</itunes:season>
+      <itunes:episode>0</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S12E00%20-%20New%20Year%20Special%202016%20%281080p%20ALL4%20WEB-DL%20AAC2.0%20H.264%29-RelaTVity.mp4" length="282066944" type="video/mp4" />
+    </item>
+    <item>
+      <title>S12E01: Stephen Mangan, Noel Fielding, Fay Ripley, Brett Domino Trio</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S12E01</guid>
+      <description>8 Out of 10 Cats Does Countdown - Stephen Mangan, Noel Fielding, Fay Ripley, Brett Domino Trio</description>
+      <pubDate>Fri, 09 Jun 2023 08:13:00 +0000</pubDate>
+      <itunes:season>12</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S12E01%20-%20Stephen%20Mangan%2C%20Noel%20Fielding%2C%20Fay%20Ripley%2C%20Brett%20Domino%20Trio%20%28HDTV-720p%20x264%20AC3%29%20-RelaTVity.mp4" length="279969792" type="video/mp4" />
+    </item>
+    <item>
+      <title>S12E02: Russell Howard, Roisin Conaty, Phil Wang, Nick Helm</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S12E02</guid>
+      <description>8 Out of 10 Cats Does Countdown - Russell Howard, Roisin Conaty, Phil Wang, Nick Helm</description>
+      <pubDate>Fri, 09 Jun 2023 04:22:00 +0000</pubDate>
+      <itunes:season>12</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S12E02%20-%20Russell%20Howard%2C%20Roisin%20Conaty%2C%20Phil%20Wang%2C%20Nick%20Helm%20%28HDTV-720p%20x264%20AC3%29%20-RelaTVity.mp4" length="285841817" type="video/mp4" />
+    </item>
+    <item>
+      <title>S12E03: David O'Doherty, Johnny Vegas, Jamie Laing, Holly Walsh</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S12E03</guid>
+      <description>8 Out of 10 Cats Does Countdown - David O'Doherty, Johnny Vegas, Jamie Laing, Holly Walsh</description>
+      <pubDate>Thu, 08 Jun 2023 18:31:00 +0000</pubDate>
+      <itunes:season>12</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S12E03%20-%20David%20O_Doherty%2C%20Johnny%20Vegas%2C%20Jamie%20Laing%2C%20Holly%20Walsh%20%28HDTV-720p%20x264%20AC3%29%20-RelaTVity.mp4" length="304401612" type="video/mp4" />
+    </item>
+    <item>
+      <title>S12E04: Joe Wilkinson, Jayde Adams, David Baddiel</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S12E04</guid>
+      <description>8 Out of 10 Cats Does Countdown - Joe Wilkinson, Jayde Adams, David Baddiel</description>
+      <pubDate>Fri, 09 Jun 2023 16:51:00 +0000</pubDate>
+      <itunes:season>12</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S12E04%20-%20Joe%20Wilkinson%2C%20Jayde%20Adams%2C%20David%20Baddiel%20%28HDTV-720p%20x264%20AC3%29%20-RelaTVity.mp4" length="281332940" type="video/mp4" />
+    </item>
+    <item>
+      <title>S12E05: Joe Wilkinson, David Mitchell, Roisin Conaty, Tom Allen</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S12E05</guid>
+      <description>8 Out of 10 Cats Does Countdown - Joe Wilkinson, David Mitchell, Roisin Conaty, Tom Allen</description>
+      <pubDate>Fri, 09 Jun 2023 18:55:00 +0000</pubDate>
+      <itunes:season>12</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S12E05%20-%20Joe%20Wilkinson%2C%20David%20Mitchell%2C%20Roisin%20Conaty%2C%20Tom%20Allen%20%28HDTV-720p%20x264%20AC3%29%20-RelaTVity.mp4" length="280808652" type="video/mp4" />
+    </item>
+    <item>
+      <title>S12E06: Jonathan Ross, Michelle Wolf, Johnny Vegas, Pappy's</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S12E06</guid>
+      <description>8 Out of 10 Cats Does Countdown - Jonathan Ross, Michelle Wolf, Johnny Vegas, Pappy's</description>
+      <pubDate>Fri, 09 Jun 2023 21:03:00 +0000</pubDate>
+      <itunes:season>12</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S12E06%20-%20Jonathan%20Ross%2C%20Michelle%20Wolf%2C%20Johnny%20Vegas%2C%20Pappy_s%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="277977497" type="video/mp4" />
+    </item>
+    <item>
+      <title>S12E07: James Acaster, Lee Mack, Sarah Millican, John Cooper Clarke</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S12E07</guid>
+      <description>8 Out of 10 Cats Does Countdown - James Acaster, Lee Mack, Sarah Millican, John Cooper Clarke</description>
+      <pubDate>Fri, 09 Jun 2023 13:39:00 +0000</pubDate>
+      <itunes:season>12</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S12E07%20-%20James%20Acaster%2C%20Lee%20Mack%2C%20Sarah%20Millican%2C%20John%20Cooper%20Clarke%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="278816358" type="video/mp4" />
+    </item>
+    <item>
+      <title>S12E08: Joe Wilkinson, Chris Addison, Katherine Ryan, David O'Doherty</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S12E08</guid>
+      <description>8 Out of 10 Cats Does Countdown - Joe Wilkinson, Chris Addison, Katherine Ryan, David O'Doherty</description>
+      <pubDate>Fri, 09 Jun 2023 11:40:00 +0000</pubDate>
+      <itunes:season>12</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S12E08%20-%20Joe%20Wilkinson%2C%20Chris%20Addison%2C%20Katherine%20Ryan%2C%20David%20O_Doherty%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="280284364" type="video/mp4" />
+    </item>
+    <item>
+      <title>S13E00: Election Special 2017</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S13E00</guid>
+      <description>8 Out of 10 Cats Does Countdown - Election Special 2017</description>
+      <pubDate>Thu, 08 Jun 2023 21:48:00 +0000</pubDate>
+      <itunes:season>13</itunes:season>
+      <itunes:episode>0</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S13E00%20-%20Election%20Special%202017%20%28HDTV-720p%20x264%20AC3%20%5BEN%5D%29%20-RelaTVity.mp4" length="223870976" type="video/mp4" />
+    </item>
+    <item>
+      <title>S13E01: Joe Lycett, Michelle Wolf, Adam Riches</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S13E01</guid>
+      <description>8 Out of 10 Cats Does Countdown - Joe Lycett, Michelle Wolf, Adam Riches</description>
+      <pubDate>Sat, 17 Jun 2023 01:10:00 +0000</pubDate>
+      <itunes:season>13</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S13E01%20-%20Joe%20Lycett%2C%20Michelle%20Wolf%2C%20Adam%20Riches%20%28HDTV-720p%20x264%20AC3%20%5BEN%5D%29%20-RelaTVity.mp4" length="280389222" type="video/mp4" />
+    </item>
+    <item>
+      <title>S13E02: Jonathan Ross, Lee Mack, Victoria Coren Mitchell, Jessie Cave</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S13E02</guid>
+      <description>8 Out of 10 Cats Does Countdown - Jonathan Ross, Lee Mack, Victoria Coren Mitchell, Jessie Cave</description>
+      <pubDate>Sat, 17 Jun 2023 03:49:00 +0000</pubDate>
+      <itunes:season>13</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S13E02%20-%20Jonathan%20Ross%2C%20Lee%20Mack%2C%20Victoria%20Coren%20Mitchell%2C%20Jessie%20Cave%20%28HDTV-720p%20x264%20AC3%20%5BEN%5D%29%20-RelaTVity.mp4" length="279130931" type="video/mp4" />
+    </item>
+    <item>
+      <title>S13E03: Stephen Mangan, Richard Ayoade, Katherine Ryan, Bill Bailey</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S13E03</guid>
+      <description>8 Out of 10 Cats Does Countdown - Stephen Mangan, Richard Ayoade, Katherine Ryan, Bill Bailey</description>
+      <pubDate>Fri, 16 Jun 2023 01:42:00 +0000</pubDate>
+      <itunes:season>13</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S13E03%20-%20Stephen%20Mangan%2C%20Richard%20Ayoade%2C%20Katherine%20Ryan%2C%20Bill%20Bailey%20%28HDTV-720p%20x264%20AC3%20%5BEN%5D%29%20-RelaTVity.mp4" length="281647513" type="video/mp4" />
+    </item>
+    <item>
+      <title>S14E01: Cariad Lloyd, Alan Carr, Kevin Bridges, Elis James, Jon Robins</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S14E01</guid>
+      <description>8 Out of 10 Cats Does Countdown - Cariad Lloyd, Alan Carr, Kevin Bridges, Elis James, Jon Robins</description>
+      <pubDate>Thu, 15 Jun 2023 08:26:00 +0000</pubDate>
+      <itunes:season>14</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S14E01%20-%20Cariad%20Lloyd%2C%20Alan%20Carr%2C%20Kevin%20Bridges%2C%20Elis%20James%2C%20Jon%20Robins%20%28HDTV-720p%20x264%20AC3%20%5BEN%5D%29%20-RelaTVity.mp4" length="280074649" type="video/mp4" />
+    </item>
+    <item>
+      <title>S14E02: Kathy Burke, Roisin Conaty, Johnny Vegas, Bob Mortimer, John Cooper Clarke</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S14E02</guid>
+      <description>8 Out of 10 Cats Does Countdown - Kathy Burke, Roisin Conaty, Johnny Vegas, Bob Mortimer, John Cooper Clarke</description>
+      <pubDate>Wed, 14 Jun 2023 07:55:00 +0000</pubDate>
+      <itunes:season>14</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S14E02%20-%20Kathy%20Burke%2C%20Roisin%20Conaty%2C%20Johnny%20Vegas%2C%20Bob%20Mortimer%2C%20John%20Cooper%20Clarke%20%28HDTV-720p%20x264%20AC3%20%5BEN%5D%29%20-RelaTVity.mp4" length="286051532" type="video/mp4" />
+    </item>
+    <item>
+      <title>S14E03: Jason Manford, Alan Carr, Katherine Ryan, Ivan Brackenbury</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S14E03</guid>
+      <description>8 Out of 10 Cats Does Countdown - Jason Manford, Alan Carr, Katherine Ryan, Ivan Brackenbury</description>
+      <pubDate>Thu, 15 Jun 2023 06:02:00 +0000</pubDate>
+      <itunes:season>14</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S14E03%20-%20Jason%20Manford%2C%20Alan%20Carr%2C%20Katherine%20Ryan%2C%20Ivan%20Brackenbury%20%28HDTV-720p%20x264%20AC3%20%5BEN%5D%29%20-RelaTVity.mp4" length="280284364" type="video/mp4" />
+    </item>
+    <item>
+      <title>S14E04: Vic Reeves, Sara Pascoe, David O'Doherty</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S14E04</guid>
+      <description>8 Out of 10 Cats Does Countdown - Vic Reeves, Sara Pascoe, David O'Doherty</description>
+      <pubDate>Wed, 14 Jun 2023 12:57:00 +0000</pubDate>
+      <itunes:season>14</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S14E04%20-%20Vic%20Reeves%2C%20Sara%20Pascoe%2C%20David%20O_Doherty%20%28HDTV-720p%20x264%20AC3%20%5BEN%5D%29%20-RelaTVity.mp4" length="281123225" type="video/mp4" />
+    </item>
+    <item>
+      <title>S14E05: Jason Manford, Joe Wilkinson, Lee Mack, Fay Ripley, Alex Horne</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S14E05</guid>
+      <description>8 Out of 10 Cats Does Countdown - Jason Manford, Joe Wilkinson, Lee Mack, Fay Ripley, Alex Horne</description>
+      <pubDate>Tue, 20 Jun 2023 02:42:00 +0000</pubDate>
+      <itunes:season>14</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S14E05%20-%20Jason%20Manford%2C%20Joe%20Wilkinson%2C%20Lee%20Mack%2C%20Fay%20Ripley%2C%20Alex%20Horne%20%28HDTV-720p%20x264%20AC3%20%5BEN%5D%29%20-RelaTVity.mp4" length="280598937" type="video/mp4" />
+    </item>
+    <item>
+      <title>S15E00: Christmas Special 2017</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S15E00</guid>
+      <description>8 Out of 10 Cats Does Countdown - Christmas Special 2017</description>
+      <pubDate>Sun, 18 Jun 2023 14:34:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>0</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S15E00%20-%20Christmas%20Special%202017%20%28WEBDL-1080p%20x264%20AAC%29%20-RelaTVity.mp4" length="280703795" type="video/mp4" />
+    </item>
+    <item>
+      <title>S15E01: Joe Wilkinson, Kevin Bridges, Jessica Knappett, John Cooper Clarke</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S15E01</guid>
+      <description>8 Out of 10 Cats Does Countdown - Joe Wilkinson, Kevin Bridges, Jessica Knappett, John Cooper Clarke</description>
+      <pubDate>Tue, 20 Jun 2023 07:02:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S15E01%20-%20Joe%20Wilkinson%2C%20Kevin%20Bridges%2C%20Jessica%20Knappett%2C%20John%20Cooper%20Clarke%20%28HDTV-720p%20x264%20AC3%20%5BEN%5D%29%20-RelaTVity.mp4" length="286995251" type="video/mp4" />
+    </item>
+    <item>
+      <title>S15E02: Lee Mack, Victoria Coren Mitchell, Alan Carr, Dane Baptiste, Sam Simmons</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S15E02</guid>
+      <description>8 Out of 10 Cats Does Countdown - Lee Mack, Victoria Coren Mitchell, Alan Carr, Dane Baptiste, Sam Simmons</description>
+      <pubDate>Tue, 20 Jun 2023 04:51:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S15E02%20-%20Lee%20Mack%2C%20Victoria%20Coren%20Mitchell%2C%20Alan%20Carr%2C%20Dane%20Baptiste%2C%20Sam%20Simmons%20%28HDTV-720p%20x264%20AC3%20%5BEN%5D%29%20-RelaTVity.mp4" length="282696089" type="video/mp4" />
+    </item>
+    <item>
+      <title>S15E03: Alan Carr, Josh Widdicombe, Joe Wilkinson, Sara Pascoe, Bill Bailey</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S15E03</guid>
+      <description>8 Out of 10 Cats Does Countdown - Alan Carr, Josh Widdicombe, Joe Wilkinson, Sara Pascoe, Bill Bailey</description>
+      <pubDate>Sat, 17 Jun 2023 17:29:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S15E03%20-%20Alan%20Carr%2C%20Josh%20Widdicombe%2C%20Joe%20Wilkinson%2C%20Sara%20Pascoe%2C%20Bill%20Bailey%20%28HDTV-720p%20x264%20AC3%20%5BEN%5D%29%20-RelaTVity.mp4" length="282171801" type="video/mp4" />
+    </item>
+    <item>
+      <title>S15E04: Johnny Vegas, Rhod Gilbert, Joe Wilkinson, Roisin Conaty, Tom Allen</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S15E04</guid>
+      <description>8 Out of 10 Cats Does Countdown - Johnny Vegas, Rhod Gilbert, Joe Wilkinson, Roisin Conaty, Tom Allen</description>
+      <pubDate>Sat, 17 Jun 2023 19:53:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S15E04%20-%20Johnny%20Vegas%2C%20Rhod%20Gilbert%2C%20Joe%20Wilkinson%2C%20Roisin%20Conaty%2C%20Tom%20Allen%20%28HDTV-720p%20x264%20AC3%20%5BEN%5D%29%20-RelaTVity.mp4" length="280703795" type="video/mp4" />
+    </item>
+    <item>
+      <title>S16E01: Katherine Ryan, Roisin Conaty, Jessica Hynes, Sara Pascoe, Lolly Adefope, and Morgana Robinson as Natalie Cassidy</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S16E01</guid>
+      <description>8 Out of 10 Cats Does Countdown - Katherine Ryan, Roisin Conaty, Jessica Hynes, Sara Pascoe, Lolly Adefope, and Morgana Robinson as Natalie Cassidy</description>
+      <pubDate>Sat, 17 Jun 2023 22:18:00 +0000</pubDate>
+      <itunes:season>16</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S16E01%20-%20Katherine%20Ryan%2C%20Roisin%20Conaty%2C%20Jessica%20Hynes%2C%20Sara%20Pascoe%2C%20Lolly%20Adefope%2C%20and%20Morgana%20Robinson%20as%20Natalie%20Cassidy%20%28HDTV-720p%20x264%20AC3%20%5BEN%5D%29%20-RelaTVity.mp4" length="284268953" type="video/mp4" />
+    </item>
+    <item>
+      <title>S16E02: Katherine Ryan, Joe Wilkinson, John Cooper Clarke</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S16E02</guid>
+      <description>8 Out of 10 Cats Does Countdown - Katherine Ryan, Joe Wilkinson, John Cooper Clarke</description>
+      <pubDate>Sun, 18 Jun 2023 00:40:00 +0000</pubDate>
+      <itunes:season>16</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S16E02%20-%20Katherine%20Ryan%2C%20Joe%20Wilkinson%2C%20John%20Cooper%20Clarke%20%28HDTV-720p%20x264%20AC3%20%5BEN%5D%29%20-RelaTVity.mp4" length="286785536" type="video/mp4" />
+    </item>
+    <item>
+      <title>S16E03: Miles Jupp, Alan Carr, Roisin Conaty, Ivan Brackenbury</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S16E03</guid>
+      <description>8 Out of 10 Cats Does Countdown - Miles Jupp, Alan Carr, Roisin Conaty, Ivan Brackenbury</description>
+      <pubDate>Sun, 18 Jun 2023 02:51:00 +0000</pubDate>
+      <itunes:season>16</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S16E03%20-%20Miles%20Jupp%2C%20Alan%20Carr%2C%20Roisin%20Conaty%2C%20Ivan%20Brackenbury%20%28HDTV-720p%20x264%20AC3%20%5BEN%5D%29%20-RelaTVity.mp4" length="284793241" type="video/mp4" />
+    </item>
+    <item>
+      <title>S16E04: Rob Beckett, Claudia Winkleman, Nick Mohammed, Joe Wilkinson</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S16E04</guid>
+      <description>8 Out of 10 Cats Does Countdown - Rob Beckett, Claudia Winkleman, Nick Mohammed, Joe Wilkinson</description>
+      <pubDate>Sun, 18 Jun 2023 05:02:00 +0000</pubDate>
+      <itunes:season>16</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S16E04%20-%20Rob%20Beckett%2C%20Claudia%20Winkleman%2C%20Nick%20Mohammed%2C%20Joe%20Wilkinson%20%28HDTV-720p%20x264%20AC3%20%5BEN%5D%29%20-RelaTVity.mp4" length="281752371" type="video/mp4" />
+    </item>
+    <item>
+      <title>S16E05: Phil Wang, Alan Carr, Harriet Kemsley, David O'Doherty, Joe Wilkinson</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S16E05</guid>
+      <description>8 Out of 10 Cats Does Countdown - Phil Wang, Alan Carr, Harriet Kemsley, David O'Doherty, Joe Wilkinson</description>
+      <pubDate>Sun, 18 Jun 2023 07:10:00 +0000</pubDate>
+      <itunes:season>16</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S16E05%20-%20Phil%20Wang%2C%20Alan%20Carr%2C%20Harriet%20Kemsley%2C%20David%20O_Doherty%2C%20Joe%20Wilkinson%20%28HDTV-720p%20x264%20AC3%20%5BEN%5D%29%20-RelaTVity.mp4" length="285946675" type="video/mp4" />
+    </item>
+    <item>
+      <title>S16E06: Richard Ayoade, Jessica Knappett, Alex Horne</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S16E06</guid>
+      <description>8 Out of 10 Cats Does Countdown - Richard Ayoade, Jessica Knappett, Alex Horne</description>
+      <pubDate>Sun, 18 Jun 2023 09:19:00 +0000</pubDate>
+      <itunes:season>16</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S16E06%20-%20Richard%20Ayoade%2C%20Jessica%20Knappett%2C%20Alex%20Horne%20%28HDTV-720p%20x264%20AC3%20%5BEN%5D%29%20-RelaTVity.mp4" length="278606643" type="video/mp4" />
+    </item>
+    <item>
+      <title>S16E07: Kevin Bridges, Joe Wilkinson, Victoria Coren Mitchell, Adam Kay</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S16E07</guid>
+      <description>8 Out of 10 Cats Does Countdown - Kevin Bridges, Joe Wilkinson, Victoria Coren Mitchell, Adam Kay</description>
+      <pubDate>Sun, 18 Jun 2023 11:42:00 +0000</pubDate>
+      <itunes:season>16</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S16E07%20-%20Kevin%20Bridges%2C%20Joe%20Wilkinson%2C%20Victoria%20Coren%20Mitchell%2C%20Adam%20Kay%20%28HDTV-720p%20x264%20AC3%20%5BEN%5D%29%20-RelaTVity.mp4" length="280913510" type="video/mp4" />
+    </item>
+    <item>
+      <title>S16E08: Roisin Conaty, Alan Carr, Joe Lycett, Spencer Jones</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S16E08</guid>
+      <description>8 Out of 10 Cats Does Countdown - Roisin Conaty, Alan Carr, Joe Lycett, Spencer Jones</description>
+      <pubDate>Sat, 17 Jun 2023 11:22:00 +0000</pubDate>
+      <itunes:season>16</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S16E08%20-%20Roisin%20Conaty%2C%20Alan%20Carr%2C%20Joe%20Lycett%2C%20Spencer%20Jones%20%28HDTV-720p%20x264%20AC3%20%5BEN%5D%29%20-RelaTVity.mp4" length="282381516" type="video/mp4" />
+    </item>
+    <item>
+      <title>S17E00: Christmas Special 2018</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S17E00</guid>
+      <description>8 Out of 10 Cats Does Countdown - Christmas Special 2018</description>
+      <pubDate>Sun, 18 Jun 2023 16:22:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>0</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S17E00%20-%20Christmas%20Special%202018%20%281080p%20WEB-DL%20AAC2.0%20H.264%29-DJV.mp4" length="280494080" type="video/mp4" />
+    </item>
+    <item>
+      <title>S17E01: Johnny Vegas, Alan Carr, Lou Sanders, The Brett Domino Trio</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S17E01</guid>
+      <description>8 Out of 10 Cats Does Countdown - Johnny Vegas, Alan Carr, Lou Sanders, The Brett Domino Trio</description>
+      <pubDate>Sat, 17 Jun 2023 08:51:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S17E01%20-%20Johnny%20Vegas%2C%20Alan%20Carr%2C%20Lou%20Sanders%2C%20The%20Brett%20Domino%20Trio%20%28HDTV-720p%20x264%20AC3%20%5BEN%5D%29%20-RelaTVity.mp4" length="279760076" type="video/mp4" />
+    </item>
+    <item>
+      <title>S17E02: Claudia Winkleman, Henning Wehn, Nick Helm</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S17E02</guid>
+      <description>8 Out of 10 Cats Does Countdown - Claudia Winkleman, Henning Wehn, Nick Helm</description>
+      <pubDate>Sun, 18 Jun 2023 18:37:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S17E02%20-%20Claudia%20Winkleman%2C%20Henning%20Wehn%2C%20Nick%20Helm%20%28HDTV-720p%20x264%20AC3%20%5BEN%5D%29%20-RelaTVity.mp4" length="279969792" type="video/mp4" />
+    </item>
+    <item>
+      <title>S17E03: Joe Wilkinson, Richard Ayoade, Aisling Bea, Tom Allen</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S17E03</guid>
+      <description>8 Out of 10 Cats Does Countdown - Joe Wilkinson, Richard Ayoade, Aisling Bea, Tom Allen</description>
+      <pubDate>Sun, 18 Jun 2023 20:52:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S17E03%20-%20Joe%20Wilkinson%2C%20Richard%20Ayoade%2C%20Aisling%20Bea%2C%20Tom%20Allen%20%28HDTV-720p%20x264%20AC3%20%5BEN%5D%29%20-RelaTVity.mp4" length="284478668" type="video/mp4" />
+    </item>
+    <item>
+      <title>S17E04: David Mitchell, Sara Pascoe, Ellie White, Natasia Demetriou</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S17E04</guid>
+      <description>8 Out of 10 Cats Does Countdown - David Mitchell, Sara Pascoe, Ellie White, Natasia Demetriou</description>
+      <pubDate>Sun, 18 Jun 2023 22:59:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S17E04%20-%20David%20Mitchell%2C%20Sara%20Pascoe%2C%20Ellie%20White%2C%20Natasia%20Demetriou%20%28HDTV-720p%20x264%20AC3%20%5BEN%5D%29%20-RelaTVity.mp4" length="285946675" type="video/mp4" />
+    </item>
+    <item>
+      <title>S17E05: Michelle Wolf, Rob Beckett, Spencer Jones</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S17E05</guid>
+      <description>8 Out of 10 Cats Does Countdown - Michelle Wolf, Rob Beckett, Spencer Jones</description>
+      <pubDate>Mon, 19 Jun 2023 01:14:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S17E05%20-%20Michelle%20Wolf%2C%20Rob%20Beckett%2C%20Spencer%20Jones%20%28HDTV-720p%20x264%20AC3%20%5BEN%5D%29%20-RelaTVity.mp4" length="281437798" type="video/mp4" />
+    </item>
+    <item>
+      <title>S17E06: Joe Wilkinson, Harriet Kemsley, James Veitch</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S17E06</guid>
+      <description>8 Out of 10 Cats Does Countdown - Joe Wilkinson, Harriet Kemsley, James Veitch</description>
+      <pubDate>Mon, 19 Jun 2023 03:30:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S17E06%20-%20Joe%20Wilkinson%2C%20Harriet%20Kemsley%2C%20James%20Veitch%20%28HDTV-720p%20x264%20AC3%20%5BEN%5D%29%20-RelaTVity.mp4" length="286890393" type="video/mp4" />
+    </item>
+    <item>
+      <title>S18E01: Miles Jupp, Rose Matafeo, Vic Reeves</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S18E01</guid>
+      <description>8 Out of 10 Cats Does Countdown - Miles Jupp, Rose Matafeo, Vic Reeves</description>
+      <pubDate>Mon, 19 Jun 2023 05:57:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S18E01%20-%20Miles%20Jupp%2C%20Rose%20Matafeo%2C%20Vic%20Reeves%20%28HDTV-720p%20x264%20AC3%29%20-RelaTVity.mp4" length="281647513" type="video/mp4" />
+    </item>
+    <item>
+      <title>S18E02: Victoria Coren Mitchell, James Acaster, Natalie Cassidy</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S18E02</guid>
+      <description>8 Out of 10 Cats Does Countdown - Victoria Coren Mitchell, James Acaster, Natalie Cassidy</description>
+      <pubDate>Mon, 19 Jun 2023 08:09:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S18E02%20-%20Victoria%20Coren%20Mitchell%2C%20James%20Acaster%2C%20Natalie%20Cassidy%20%28HDTV-720p%20x264%20AC3%29%20-RelaTVity.mp4" length="283534950" type="video/mp4" />
+    </item>
+    <item>
+      <title>S18E03: Joe Wilkinson, Sara Pascoe, Sam Simmons</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S18E03</guid>
+      <description>8 Out of 10 Cats Does Countdown - Joe Wilkinson, Sara Pascoe, Sam Simmons</description>
+      <pubDate>Mon, 19 Jun 2023 10:21:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S18E03%20-%20Joe%20Wilkinson%2C%20Sara%20Pascoe%2C%20Sam%20Simmons%20%28HDTV-720p%20x264%20AC3%29%20-RelaTVity.mp4" length="283954380" type="video/mp4" />
+    </item>
+    <item>
+      <title>S18E04: Rob Beckett, Alan Carr, Sarah Millican, Nick Mohammed</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S18E04</guid>
+      <description>8 Out of 10 Cats Does Countdown - Rob Beckett, Alan Carr, Sarah Millican, Nick Mohammed</description>
+      <pubDate>Mon, 19 Jun 2023 12:35:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S18E04%20-%20Rob%20Beckett%2C%20Alan%20Carr%2C%20Sarah%20Millican%2C%20Nick%20Mohammed%20%28HDTV-720p%20x264%20AC3%20%5BEN%5D%29%20-RelaTVity.mp4" length="285946675" type="video/mp4" />
+    </item>
+    <item>
+      <title>S18E05: Sara Pascoe, Alan Carr, Tom Allen, Rosie Jones</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S18E05</guid>
+      <description>8 Out of 10 Cats Does Countdown - Sara Pascoe, Alan Carr, Tom Allen, Rosie Jones</description>
+      <pubDate>Mon, 19 Jun 2023 15:35:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S18E05%20-%20Sara%20Pascoe%2C%20Alan%20Carr%2C%20Tom%20Allen%2C%20Rosie%20Jones%20%28HDTV-720p%20x264%20AC3%29%20-RelaTVity.mp4" length="284583526" type="video/mp4" />
+    </item>
+    <item>
+      <title>S18E06: Harriet Kemsley, Alan Carr, Catherine Tate, Adam Buxton</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S18E06</guid>
+      <description>8 Out of 10 Cats Does Countdown - Harriet Kemsley, Alan Carr, Catherine Tate, Adam Buxton</description>
+      <pubDate>Mon, 19 Jun 2023 17:52:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S18E06%20-%20Harriet%20Kemsley%2C%20Alan%20Carr%2C%20Catherine%20Tate%2C%20Adam%20Buxton%20%28HDTV-720p%20x264%20AC3%29%20-RelaTVity.mp4" length="279235788" type="video/mp4" />
+    </item>
+    <item>
+      <title>S18E07: Katherine Ryan, Joe Wilkinson, Adam Riches</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S18E07</guid>
+      <description>8 Out of 10 Cats Does Countdown - Katherine Ryan, Joe Wilkinson, Adam Riches</description>
+      <pubDate>Sat, 17 Jun 2023 13:31:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S18E07%20-%20Katherine%20Ryan%2C%20Joe%20Wilkinson%2C%20Adam%20Riches%20%28HDTV-720p%20x264%20AAC%29%20-RelaTVity.mp4" length="279655219" type="video/mp4" />
+    </item>
+    <item>
+      <title>S18E08: Christmas Special 2019</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S18E08</guid>
+      <description>8 Out of 10 Cats Does Countdown - Christmas Special 2019</description>
+      <pubDate>Sun, 18 Jun 2023 13:12:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S18E08%20-%20Christmas%20Special%202019%20%281080p%20WEB-DL%20AAC2.0%20H.264%29-DJV.mp4" length="277977497" type="video/mp4" />
+    </item>
+    <item>
+      <title>S19E01: Harry Hill, Rose Matafeo, Alex Horne</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S19E01</guid>
+      <description>8 Out of 10 Cats Does Countdown - Harry Hill, Rose Matafeo, Alex Horne</description>
+      <pubDate>Mon, 19 Jun 2023 20:15:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S19E01%20-%20Harry%20Hill%2C%20Rose%20Matafeo%2C%20Alex%20Horne%20%28HDTV-1080p%20x264%20AAC%20%5BEN%5D%29%20-RelaTVity.mp4" length="279864934" type="video/mp4" />
+    </item>
+    <item>
+      <title>S19E02: Joe Wilkinson, Kiri Pritchard-McLean, The Brett Domino Trio</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S19E02</guid>
+      <description>8 Out of 10 Cats Does Countdown - Joe Wilkinson, Kiri Pritchard-McLean, The Brett Domino Trio</description>
+      <pubDate>Fri, 02 Jun 2023 22:32:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S19E02%20-%20Joe%20Wilkinson%2C%20Kiri%20Pritchard-McLean%2C%20The%20Brett%20Domino%20Trio%20%28HDTV-1080p%20x264%20AAC%29%20-RelaTVity.mp4" length="660078592" type="video/mp4" />
+    </item>
+    <item>
+      <title>S19E03: Richard Ayoade, Katherine Ryan, David O'Doherty</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S19E03</guid>
+      <description>8 Out of 10 Cats Does Countdown - Richard Ayoade, Katherine Ryan, David O'Doherty</description>
+      <pubDate>Fri, 02 Jun 2023 23:58:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S19E03%20-%20Richard%20Ayoade%2C%20Katherine%20Ryan%2C%20David%20O_Doherty%20%28HDTV-1080p%20x264%20AAC%29%20-RelaTVity.mp4" length="717750272" type="video/mp4" />
+    </item>
+    <item>
+      <title>S19E04: Miles Jupp, Sophie Duker, Lee and Dean</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S19E04</guid>
+      <description>8 Out of 10 Cats Does Countdown - Miles Jupp, Sophie Duker, Lee and Dean</description>
+      <pubDate>Sat, 03 Jun 2023 01:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S19E04%20-%20Miles%20Jupp%2C%20Sophie%20Duker%2C%20Lee%20and%20Dean%20%28HDTV-1080p%20x264%20AAC%29%20-RelaTVity.mp4" length="519883980" type="video/mp4" />
+    </item>
+    <item>
+      <title>S19E05: Kevin Bridges, Victoria Coren Mitchell, Spencer Jones</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S19E05</guid>
+      <description>8 Out of 10 Cats Does Countdown - Kevin Bridges, Victoria Coren Mitchell, Spencer Jones</description>
+      <pubDate>Wed, 21 Jun 2023 03:44:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S19E05%20-%20Kevin%20Bridges%2C%20Victoria%20Coren%20Mitchell%2C%20Spencer%20Jones%20%28HDTV-1080p%20x264%20Opus%29%20-RelaTVity.mp4" length="277977497" type="video/mp4" />
+    </item>
+    <item>
+      <title>S19E06: Harriet Kemsley, Chris McCausland, Nick Helm</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S19E06</guid>
+      <description>8 Out of 10 Cats Does Countdown - Harriet Kemsley, Chris McCausland, Nick Helm</description>
+      <pubDate>Sat, 03 Jun 2023 03:11:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S19E06%20-%20Harriet%20Kemsley%2C%20Chris%20McCausland%2C%20Nick%20Helm%20%28HDTV-1080p%20x264%20AAC%29%20-RelaTVity.mp4" length="553857843" type="video/mp4" />
+    </item>
+    <item>
+      <title>S20E01: Kerry Godliman, Joe Wilkinson, Mr Swallow</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S20E01</guid>
+      <description>8 Out of 10 Cats Does Countdown - Kerry Godliman, Joe Wilkinson, Mr Swallow</description>
+      <pubDate>Sat, 03 Jun 2023 05:29:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S20E01%20-%20Kerry%20Godliman%2C%20Joe%20Wilkinson%2C%20Mr%20Swallow%20%28HDTV-1080p%20h264%20AAC%29%20-Sonarr.mp4" length="1181116006" type="video/mp4" />
+    </item>
+    <item>
+      <title>S20E02: Tom Allen, Rosie Jones, Adam Riches</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S20E02</guid>
+      <description>8 Out of 10 Cats Does Countdown - Tom Allen, Rosie Jones, Adam Riches</description>
+      <pubDate>Tue, 20 Jun 2023 08:53:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S20E02%20-%20Tom%20Allen%2C%20Rosie%20Jones%2C%20Adam%20Riches%20%28HDTV-720p%20x265%20AC3%29%20-Cherzo.mp4" length="274202624" type="video/mp4" />
+    </item>
+    <item>
+      <title>S20E03: Daisy May Cooper, Richard Ayoade, Ivo Graham, Adam Buxton</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S20E03</guid>
+      <description>8 Out of 10 Cats Does Countdown - Daisy May Cooper, Richard Ayoade, Ivo Graham, Adam Buxton</description>
+      <pubDate>Sat, 03 Jun 2023 08:33:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S20E03%20-%20Daisy%20May%20Cooper%2C%20Richard%20Ayoade%2C%20Ivo%20Graham%2C%20Adam%20Buxton%20%28HDTV-1080p%20x264%20AAC%29%20-Sonarr.mp4" length="1181116006" type="video/mp4" />
+    </item>
+    <item>
+      <title>S20E04: Best Bits 1</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S20E04</guid>
+      <description>8 Out of 10 Cats Does Countdown - Best Bits 1</description>
+      <pubDate>Tue, 20 Jun 2023 10:40:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S20E04%20-%20Best%20Bits%201%20%281080p%20WEB-DL%20AAC2.0%20H.264%29-DJV.mp4" length="280913510" type="video/mp4" />
+    </item>
+    <item>
+      <title>S20E05: Best Bits 2</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S20E05</guid>
+      <description>8 Out of 10 Cats Does Countdown - Best Bits 2</description>
+      <pubDate>Tue, 20 Jun 2023 12:27:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S20E05%20-%20Best%20Bits%202%20%281080p%20WEB-DL%20AAC2.0%20H.264%29-DJV.mp4" length="278396928" type="video/mp4" />
+    </item>
+    <item>
+      <title>S20E06: Christmas Special 2020</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S20E06</guid>
+      <description>8 Out of 10 Cats Does Countdown - Christmas Special 2020</description>
+      <pubDate>Tue, 20 Jun 2023 14:02:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S20E06%20-%20Christmas%20Special%202020%20%281080p%20WEB-DL%20AAC2.0%20H.264%29-DJV.mp4" length="277243494" type="video/mp4" />
+    </item>
+    <item>
+      <title>S21E01: Katherine Ryan, Joe Lycett, Johnny Vegas, Christopher Bliss</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S21E01</guid>
+      <description>8 Out of 10 Cats Does Countdown - Katherine Ryan, Joe Lycett, Johnny Vegas, Christopher Bliss</description>
+      <pubDate>Tue, 20 Jun 2023 16:30:00 +0000</pubDate>
+      <itunes:season>21</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S21E01%20-%20Katherine%20Ryan%2C%20Joe%20Lycett%2C%20Johnny%20Vegas%2C%20Christopher%20Bliss%20%28HDTV-1080p%20x264%20AAC%20%5BEN%5D%29%20-RelaTVity.mp4" length="281962086" type="video/mp4" />
+    </item>
+    <item>
+      <title>S21E02: Paul Foot, Angela Barnes, John Cooper Clarke</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S21E02</guid>
+      <description>8 Out of 10 Cats Does Countdown - Paul Foot, Angela Barnes, John Cooper Clarke</description>
+      <pubDate>Tue, 20 Jun 2023 17:58:00 +0000</pubDate>
+      <itunes:season>21</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S21E02%20-%20Paul%20Foot%2C%20Angela%20Barnes%2C%20John%20Cooper%20Clarke%20%28HDTV-720p%20x264%20AAC%20%5BEN%5D%29%20-RelaTVity.mp4" length="276194918" type="video/mp4" />
+    </item>
+    <item>
+      <title>S21E03: Harriet Kemsley, Joe Lycett, Mat Ewins</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S21E03</guid>
+      <description>8 Out of 10 Cats Does Countdown - Harriet Kemsley, Joe Lycett, Mat Ewins</description>
+      <pubDate>Tue, 20 Jun 2023 19:52:00 +0000</pubDate>
+      <itunes:season>21</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S21E03%20-%20Harriet%20Kemsley%2C%20Joe%20Lycett%2C%20Mat%20Ewins%20%28HDTV-1080p%20x264%20AAC%20%5BEN%5D%29%20-RelaTVity.mp4" length="277138636" type="video/mp4" />
+    </item>
+    <item>
+      <title>S21E04: Sara Pascoe, Richard Ayoade, Nick Helm</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S21E04</guid>
+      <description>8 Out of 10 Cats Does Countdown - Sara Pascoe, Richard Ayoade, Nick Helm</description>
+      <pubDate>Tue, 20 Jun 2023 21:22:00 +0000</pubDate>
+      <itunes:season>21</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S21E04%20-%20Sara%20Pascoe%2C%20Richard%20Ayoade%2C%20Nick%20Helm%20%28HDTV-720p%20x264%20AAC%20%5BEN%5D%29%20-RelaTVity.mp4" length="277348352" type="video/mp4" />
+    </item>
+    <item>
+      <title>S21E05: Lucy Beaumont, Roisin Conaty, Joe Wilkinson, Bec Hill</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S21E05</guid>
+      <description>8 Out of 10 Cats Does Countdown - Lucy Beaumont, Roisin Conaty, Joe Wilkinson, Bec Hill</description>
+      <pubDate>Tue, 20 Jun 2023 22:56:00 +0000</pubDate>
+      <itunes:season>21</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S21E05%20-%20Lucy%20Beaumont%2C%20Roisin%20Conaty%2C%20Joe%20Wilkinson%2C%20Bec%20Hill%20%28HDTV-1080p%20x264%20AAC%20%5BEN%5D%29%20-RelaTVity.mp4" length="276824064" type="video/mp4" />
+    </item>
+    <item>
+      <title>S21E06: Joe Wilkinson, Lee Mack, Katherine Ryan, Brett Domino</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S21E06</guid>
+      <description>8 Out of 10 Cats Does Countdown - Joe Wilkinson, Lee Mack, Katherine Ryan, Brett Domino</description>
+      <pubDate>Tue, 20 Jun 2023 00:39:00 +0000</pubDate>
+      <itunes:season>21</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S21E06%20-%20Joe%20Wilkinson%2C%20Lee%20Mack%2C%20Katherine%20Ryan%2C%20Brett%20Domino%20%28HDTV-720p%20x264%20AAC%20%5BEN%5D%29%20-RelaTVity.mp4" length="275460915" type="video/mp4" />
+    </item>
+    <item>
+      <title>S22E00: Christmas Special 2021</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S22E00</guid>
+      <description>8 Out of 10 Cats Does Countdown - Christmas Special 2021</description>
+      <pubDate>Wed, 21 Jun 2023 00:34:00 +0000</pubDate>
+      <itunes:season>22</itunes:season>
+      <itunes:episode>0</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S22E00%20-%20Christmas%20Special%202021%20%281080p%20WEB-DL%20AAC2.0%20H.264%29-DJV.mp4" length="277243494" type="video/mp4" />
+    </item>
+    <item>
+      <title>S22E01: Roisin Conaty, Kiri Pritchard-McLean, Rob Beckett, Huge Davies</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S22E01</guid>
+      <description>8 Out of 10 Cats Does Countdown - Roisin Conaty, Kiri Pritchard-McLean, Rob Beckett, Huge Davies</description>
+      <pubDate>Wed, 21 Jun 2023 05:13:00 +0000</pubDate>
+      <itunes:season>22</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S22E01%20-%20Roisin%20Conaty%2C%20Kiri%20Pritchard-McLean%2C%20Rob%20Beckett%2C%20Huge%20Davies%20%28HDTV-1080p%20x264%20AAC%20%5BEN%5D%29%20-RelaTVity.mp4" length="275460915" type="video/mp4" />
+    </item>
+    <item>
+      <title>S22E02: Jack Dee, Tom Allen, Judi Love, John Cooper Clarke</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S22E02</guid>
+      <description>8 Out of 10 Cats Does Countdown - Jack Dee, Tom Allen, Judi Love, John Cooper Clarke</description>
+      <pubDate>Mon, 19 Jun 2023 21:52:00 +0000</pubDate>
+      <itunes:season>22</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S22E02%20-%20Jack%20Dee%2C%20Tom%20Allen%2C%20Judi%20Love%2C%20John%20Cooper%20Clarke%20%28HDTV-1080p%20x264%20AAC%20%5BEN%5D%29%20-RelaTVity.mp4" length="277558067" type="video/mp4" />
+    </item>
+    <item>
+      <title>S22E03: Roisin Conaty, Asim Chaudhry, Josh Widdicombe, Bill Bailey</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S22E03</guid>
+      <description>8 Out of 10 Cats Does Countdown - Roisin Conaty, Asim Chaudhry, Josh Widdicombe, Bill Bailey</description>
+      <pubDate>Wed, 21 Jun 2023 06:49:00 +0000</pubDate>
+      <itunes:season>22</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S22E03%20-%20Roisin%20Conaty%2C%20Asim%20Chaudhry%2C%20Josh%20Widdicombe%2C%20Bill%20Bailey%20%28WEBDL-1080p%20x264%20AAC%20%5BEN%5D%29%20-RelaTVity.mp4" length="275041484" type="video/mp4" />
+    </item>
+    <item>
+      <title>S22E04: Lee Mack, Joe Wilkinson, Jessica Knappett, Nigel Ng</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S22E04</guid>
+      <description>8 Out of 10 Cats Does Countdown - Lee Mack, Joe Wilkinson, Jessica Knappett, Nigel Ng</description>
+      <pubDate>Wed, 21 Jun 2023 08:16:00 +0000</pubDate>
+      <itunes:season>22</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S22E04%20-%20Lee%20Mack%2C%20Joe%20Wilkinson%2C%20Jessica%20Knappett%2C%20Nigel%20Ng%20%28WEBDL-1080p%20x264%20AAC%20%5BEN%5D%29%20-RelaTVity.mp4" length="275880345" type="video/mp4" />
+    </item>
+    <item>
+      <title>S22E05: Sarah Millican, Nish Kumar, Maisie Adam, David O'Doherty</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S22E05</guid>
+      <description>8 Out of 10 Cats Does Countdown - Sarah Millican, Nish Kumar, Maisie Adam, David O'Doherty</description>
+      <pubDate>Wed, 21 Jun 2023 09:43:00 +0000</pubDate>
+      <itunes:season>22</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S22E05%20-%20Sarah%20Millican%2C%20Nish%20Kumar%2C%20Maisie%20Adam%2C%20David%20O_Doherty%20%28WEBDL-1080p%20x264%20AAC%20%5BEN%5D%29%20-RelaTVity.mp4" length="276824064" type="video/mp4" />
+    </item>
+    <item>
+      <title>S22E06: Sean Lock, Harry Hill, Jon Richardson, Rosie Jones</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S22E06</guid>
+      <description>8 Out of 10 Cats Does Countdown - Sean Lock, Harry Hill, Jon Richardson, Rosie Jones</description>
+      <pubDate>Wed, 21 Jun 2023 11:11:00 +0000</pubDate>
+      <itunes:season>22</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S22E06%20-%20Sean%20Lock%2C%20Harry%20Hill%2C%20Jon%20Richardson%2C%20Rosie%20Jones%20%281080p%20ALL4%20WEB-DL%20AAC2.0%20H.264%29-RelaTVity.mp4" length="275775488" type="video/mp4" />
+    </item>
+    <item>
+      <title>S23E01: Lucy Beaumont, Richard Ayoade, Joe Wilkinson, Finlay Christie</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S23E01</guid>
+      <description>8 Out of 10 Cats Does Countdown - Lucy Beaumont, Richard Ayoade, Joe Wilkinson, Finlay Christie</description>
+      <pubDate>Wed, 21 Jun 2023 12:48:00 +0000</pubDate>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S23E01%20-%20Lucy%20Beaumont%2C%20Richard%20Ayoade%2C%20Joe%20Wilkinson%2C%20Finlay%20Christie%20%28WEBDL-1080p%20x264%20AAC%29%20-RelaTVity-DJV.mp4" length="278711500" type="video/mp4" />
+    </item>
+    <item>
+      <title>S23E02: Alan Carr, Harriet Kemsley, Jonathan Ross, Maisie Adam, Huge Davies</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S23E02</guid>
+      <description>8 Out of 10 Cats Does Countdown - Alan Carr, Harriet Kemsley, Jonathan Ross, Maisie Adam, Huge Davies</description>
+      <pubDate>Wed, 21 Jun 2023 14:26:00 +0000</pubDate>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S23E02%20-%20Alan%20Carr%2C%20Harriet%20Kemsley%2C%20Jonathan%20Ross%2C%20Maisie%20Adam%2C%20Huge%20Davies%20%28WEBDL-1080p%20x264%20AAC%29%20-RelaTVity-DJV.mp4" length="277033779" type="video/mp4" />
+    </item>
+    <item>
+      <title>S24E00: Christmas Special 2022</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S24E00</guid>
+      <description>8 Out of 10 Cats Does Countdown - Christmas Special 2022</description>
+      <pubDate>Wed, 21 Jun 2023 02:16:00 +0000</pubDate>
+      <itunes:season>24</itunes:season>
+      <itunes:episode>0</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S24E00%20-%20Christmas%20Special%202022%20%281080p%20ALL4%20WEB-DL%20AAC2.0%20H.264%29-DJV.mp4" length="278711500" type="video/mp4" />
+    </item>
+    <item>
+      <title>S24E01: Jonathan Ross, Joe Wilkinson, Roisin Conaty, Ahir Shah, Catherine Cohen</title>
+      <guid isPermaLink="false">CATSCOUNTDOWN-S24E01</guid>
+      <description>8 Out of 10 Cats Does Countdown - Jonathan Ross, Joe Wilkinson, Roisin Conaty, Ahir Shah, Catherine Cohen</description>
+      <pubDate>Tue, 13 Jun 2023 14:41:00 +0000</pubDate>
+      <itunes:season>24</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/8-out-of-10-cats-does-countdown/8%20Out%20of%2010%20Cats%20Does%20Countdown%20-%20S24E01%20-%20Jonathan%20Ross%2C%20Joe%20Wilkinson%2C%20Roisin%20Conaty%2C%20Ahir%20Shah%2C%20Catherine%20Cohen%20%281080p%20ALL4%20WEB-DL%20AAC2.0%20H.264%29-DJV.mp4" length="275985203" type="video/mp4" />
+    </item>
+  </channel>
 </rss>
-
