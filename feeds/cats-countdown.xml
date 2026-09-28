@@ -3,7 +3,7 @@
   <channel>
     <title>8 Out of 10 Cats Does Countdown</title>
     <link>https://teyvattrave13r.github.io/audio-feeds/</link>
-    <description>Personal video archive feed for 8 Out of 10 Cats Does Countdown.</description>
+    <description>Jimmy Carr hosts an anarchic comedy game-show mash-up of 8 Out of 10 Cats and Countdown, with Rachel Riley and Susie Dent as comedians take on the numbers, letters and conundrum rounds.</description>
     <language>en-gb</language>
     <itunes:author>Channel 4</itunes:author>
     <itunes:type>episodic</itunes:type>
@@ -16,7 +16,7 @@
     <item>
       <title>S00E01: Pilot</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S00E01</guid>
-      <description>8 Out of 10 Cats Does Countdown - Pilot</description>
+      <description>Original 2012 crossover episode. Dictionary Corner: Joe Wilkinson.</description>
       <pubDate>Tue, 13 Jun 2023 07:43:00 +0000</pubDate>
       <itunes:season>0</itunes:season>
       <itunes:episode>1</itunes:episode>
@@ -26,7 +26,7 @@
     <item>
       <title>S00E02: The Rematch - Clarke Carlisle, Joe Wilkinson, David O'Doherty</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S00E02</guid>
-      <description>8 Out of 10 Cats Does Countdown - The Rematch - Clarke Carlisle, Joe Wilkinson, David O'Doherty</description>
+      <description>Sean Lock with Clarke Carlisle vs Jon Richardson with Joe Wilkinson. Dictionary Corner: David O'Doherty.</description>
       <pubDate>Sat, 17 Jun 2023 15:04:00 +0000</pubDate>
       <itunes:season>0</itunes:season>
       <itunes:episode>2</itunes:episode>
@@ -36,7 +36,7 @@
     <item>
       <title>S01E01: Lee Mack, Rob Beckett, Rhod Gilbert, Tim Key</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S01E01</guid>
-      <description>8 Out of 10 Cats Does Countdown - Lee Mack, Rob Beckett, Rhod Gilbert, Tim Key</description>
+      <description>Lee Mack with Rob Beckett vs Jon Richardson with Rhod Gilbert. Dictionary Corner: Tim Key.</description>
       <pubDate>Tue, 13 Jun 2023 19:12:00 +0000</pubDate>
       <itunes:season>1</itunes:season>
       <itunes:episode>1</itunes:episode>
@@ -46,7 +46,7 @@
     <item>
       <title>S01E02: Lee Mack, Richard Osman, Stephen Mangan, Henning Wehn</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S01E02</guid>
-      <description>8 Out of 10 Cats Does Countdown - Lee Mack, Richard Osman, Stephen Mangan, Henning Wehn</description>
+      <description>Lee Mack with Richard Osman vs Jon Richardson with Stephen Mangan. Dictionary Corner: Henning Wehn.</description>
       <pubDate>Tue, 13 Jun 2023 21:03:00 +0000</pubDate>
       <itunes:season>1</itunes:season>
       <itunes:episode>2</itunes:episode>
@@ -56,7 +56,7 @@
     <item>
       <title>S02E01: Jason Manford, Rhod Gilbert, Danny Dyer</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S02E01</guid>
-      <description>8 Out of 10 Cats Does Countdown - Jason Manford, Rhod Gilbert, Danny Dyer</description>
+      <description>Sean Lock with Jason Manford vs Jon Richardson with Rhod Gilbert. Dictionary Corner: Danny Dyer.</description>
       <pubDate>Tue, 13 Jun 2023 22:26:00 +0000</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>1</itunes:episode>
@@ -66,7 +66,7 @@
     <item>
       <title>S02E02: Rhod Gilbert, Miles Jupp, Nick Helm</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S02E02</guid>
-      <description>8 Out of 10 Cats Does Countdown - Rhod Gilbert, Miles Jupp, Nick Helm</description>
+      <description>Sean Lock with Rhod Gilbert vs Jon Richardson with Miles Jupp. Dictionary Corner: Nick Helm.</description>
       <pubDate>Sat, 10 Jun 2023 11:31:00 +0000</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>2</itunes:episode>
@@ -76,7 +76,7 @@
     <item>
       <title>S02E03: Humphrey Ker, Sarah Millican, Rich Hall</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S02E03</guid>
-      <description>8 Out of 10 Cats Does Countdown - Humphrey Ker, Sarah Millican, Rich Hall</description>
+      <description>Sean Lock with Humphrey Ker vs Jon Richardson with Sarah Millican. Dictionary Corner: Rich Hall.</description>
       <pubDate>Sat, 10 Jun 2023 05:55:00 +0000</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>3</itunes:episode>
@@ -86,7 +86,7 @@
     <item>
       <title>S02E04: Sarah Millican, Chris Ramsey, Abandoman</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S02E04</guid>
-      <description>8 Out of 10 Cats Does Countdown - Sarah Millican, Chris Ramsey, Abandoman</description>
+      <description>Sean Lock with Sarah Millican vs Jon Richardson with Chris Ramsey. Dictionary Corner: Abandoman.</description>
       <pubDate>Sat, 10 Jun 2023 07:18:00 +0000</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>4</itunes:episode>
@@ -96,7 +96,7 @@
     <item>
       <title>S02E05: Lee Mack, Bob Mortimer, Adam Hills, Alex Horne and The Horne Section</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S02E05</guid>
-      <description>8 Out of 10 Cats Does Countdown - Lee Mack, Bob Mortimer, Adam Hills, Alex Horne and The Horne Section</description>
+      <description>Lee Mack and Bob Mortimer vs Jon Richardson with Adam Hills. Dictionary Corner: Alex Horne and The Horne Section.</description>
       <pubDate>Sat, 10 Jun 2023 08:42:00 +0000</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>5</itunes:episode>
@@ -106,7 +106,7 @@
     <item>
       <title>S02E06: 1980s Special</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S02E06</guid>
-      <description>8 Out of 10 Cats Does Countdown - 1980s Special</description>
+      <description>Lee Mack and David O'Doherty vs Jon Richardson with Henning Wehn. Dictionary Corner: Vic Reeves.</description>
       <pubDate>Sat, 10 Jun 2023 09:58:00 +0000</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>6</itunes:episode>
@@ -116,7 +116,7 @@
     <item>
       <title>S03E01: Rhod Gilbert, Kevin Bridges, Josie Long</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S03E01</guid>
-      <description>8 Out of 10 Cats Does Countdown - Rhod Gilbert, Kevin Bridges, Josie Long</description>
+      <description>Sean Lock with Rhod Gilbert vs Jon Richardson with Kevin Bridges. Dictionary Corner: Josie Long.</description>
       <pubDate>Sat, 10 Jun 2023 02:30:00 +0000</pubDate>
       <itunes:season>3</itunes:season>
       <itunes:episode>1</itunes:episode>
@@ -126,7 +126,7 @@
     <item>
       <title>S03E02: Miles Jupp, Aisling Bea, Nick Helm</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S03E02</guid>
-      <description>8 Out of 10 Cats Does Countdown - Miles Jupp, Aisling Bea, Nick Helm</description>
+      <description>Sean Lock with Miles Jupp vs Jon Richardson with Aisling Bea. Dictionary Corner: Nick Helm.</description>
       <pubDate>Wed, 14 Jun 2023 00:12:00 +0000</pubDate>
       <itunes:season>3</itunes:season>
       <itunes:episode>2</itunes:episode>
@@ -136,7 +136,7 @@
     <item>
       <title>S03E03: Kathy Burke, Josh Widdicombe, Dara O'Briain</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S03E03</guid>
-      <description>8 Out of 10 Cats Does Countdown - Kathy Burke, Josh Widdicombe, Dara O'Briain</description>
+      <description>Sean Lock with Kathy Burke vs Jon Richardson with Josh Widdicombe. Dictionary Corner: Dara Ó Briain.</description>
       <pubDate>Sat, 10 Jun 2023 13:22:00 +0000</pubDate>
       <itunes:season>3</itunes:season>
       <itunes:episode>3</itunes:episode>
@@ -146,7 +146,7 @@
     <item>
       <title>S03E04: Dara O'Briain, Sharon Horgan, Adam Buxton</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S03E04</guid>
-      <description>8 Out of 10 Cats Does Countdown - Dara O'Briain, Sharon Horgan, Adam Buxton</description>
+      <description>Sean Lock with Dara Ó Briain vs Jon Richardson with Sharon Horgan. Dictionary Corner: Adam Buxton.</description>
       <pubDate>Fri, 09 Jun 2023 23:45:00 +0000</pubDate>
       <itunes:season>3</itunes:season>
       <itunes:episode>4</itunes:episode>
@@ -156,7 +156,7 @@
     <item>
       <title>S03E05: Jack Dee, James Corden, Joe Lycett</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S03E05</guid>
-      <description>8 Out of 10 Cats Does Countdown - Jack Dee, James Corden, Joe Lycett</description>
+      <description>Sean Lock with Jack Dee vs Jon Richardson with James Corden. Dictionary Corner: Joe Lycett.</description>
       <pubDate>Sat, 10 Jun 2023 18:20:00 +0000</pubDate>
       <itunes:season>3</itunes:season>
       <itunes:episode>5</itunes:episode>
@@ -166,7 +166,7 @@
     <item>
       <title>S03E06: James Corden, Kevin Bridges, Peter Serafinowicz</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S03E06</guid>
-      <description>8 Out of 10 Cats Does Countdown - James Corden, Kevin Bridges, Peter Serafinowicz</description>
+      <description>Sean Lock with James Corden vs Jon Richardson with Kevin Bridges. Dictionary Corner: Peter Serafinowicz.</description>
       <pubDate>Sat, 10 Jun 2023 20:05:00 +0000</pubDate>
       <itunes:season>3</itunes:season>
       <itunes:episode>6</itunes:episode>
@@ -176,7 +176,7 @@
     <item>
       <title>S04E01: Roisin Conaty, Jonathan Ross, David O'Doherty</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S04E01</guid>
-      <description>8 Out of 10 Cats Does Countdown - Roisin Conaty, Jonathan Ross, David O'Doherty</description>
+      <description>Sean Lock with Roisin Conaty vs Jon Richardson with Jonathan Ross. Dictionary Corner: David O'Doherty.</description>
       <pubDate>Sat, 10 Jun 2023 22:00:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>1</itunes:episode>
@@ -186,7 +186,7 @@
     <item>
       <title>S04E02: Andrew Flintoff, Rhod Gilbert, Henning Wehn</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S04E02</guid>
-      <description>8 Out of 10 Cats Does Countdown - Andrew Flintoff, Rhod Gilbert, Henning Wehn</description>
+      <description>Sean Lock with Freddie Flintoff vs Jon Richardson with Rhod Gilbert. Dictionary Corner: Henning Wehn.</description>
       <pubDate>Sat, 10 Jun 2023 23:44:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>2</itunes:episode>
@@ -196,7 +196,7 @@
     <item>
       <title>S04E03: Josie Long, Rob Beckett, Vic Reeves</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S04E03</guid>
-      <description>8 Out of 10 Cats Does Countdown - Josie Long, Rob Beckett, Vic Reeves</description>
+      <description>Sean Lock with Josie Long vs Jon Richardson with Rob Beckett. Dictionary Corner: Vic Reeves.</description>
       <pubDate>Sun, 11 Jun 2023 03:18:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>3</itunes:episode>
@@ -206,7 +206,7 @@
     <item>
       <title>S04E04: Stephen Mangan, Jason Manford, Tim Key</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S04E04</guid>
-      <description>8 Out of 10 Cats Does Countdown - Stephen Mangan, Jason Manford, Tim Key</description>
+      <description>Sean Lock with Stephen Mangan vs Jon Richardson with Jason Manford. Dictionary Corner: Tim Key.</description>
       <pubDate>Wed, 14 Jun 2023 01:41:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>4</itunes:episode>
@@ -216,7 +216,7 @@
     <item>
       <title>S04E05: Jo Brand, Claudia Winkleman, Bill Bailey</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S04E05</guid>
-      <description>8 Out of 10 Cats Does Countdown - Jo Brand, Claudia Winkleman, Bill Bailey</description>
+      <description>Sean Lock with Jo Brand vs Jon Richardson with Claudia Winkleman. Dictionary Corner: Bill Bailey.</description>
       <pubDate>Sat, 10 Jun 2023 14:58:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>5</itunes:episode>
@@ -226,7 +226,7 @@
     <item>
       <title>S04E06: Bill Bailey, Josh Widdicombe, Jake Yapp</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S04E06</guid>
-      <description>8 Out of 10 Cats Does Countdown - Bill Bailey, Josh Widdicombe, Jake Yapp</description>
+      <description>Sean Lock with Bill Bailey vs Jon Richardson with Josh Widdicombe. Dictionary Corner: Jake Yapp.</description>
       <pubDate>Sat, 10 Jun 2023 01:06:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>6</itunes:episode>
@@ -236,7 +236,7 @@
     <item>
       <title>S04E07: Bob Mortimer, Richard Osman, Matthew Crosby</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S04E07</guid>
-      <description>8 Out of 10 Cats Does Countdown - Bob Mortimer, Richard Osman, Matthew Crosby</description>
+      <description>Sean Lock with Bob Mortimer vs Jon Richardson with Richard Osman. Dictionary Corner: Matthew Crosby.</description>
       <pubDate>Fri, 09 Jun 2023 14:51:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>7</itunes:episode>
@@ -246,7 +246,7 @@
     <item>
       <title>S05E01: David Mitchell, Roisin Conaty, Phill Jupitus</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S05E01</guid>
-      <description>8 Out of 10 Cats Does Countdown - David Mitchell, Roisin Conaty, Phill Jupitus</description>
+      <description>Sean Lock with Roisin Conaty vs Jon Richardson with David Mitchell. Dictionary Corner: Phill Jupitus.</description>
       <pubDate>Sat, 10 Jun 2023 16:38:00 +0000</pubDate>
       <itunes:season>5</itunes:season>
       <itunes:episode>1</itunes:episode>
@@ -256,7 +256,7 @@
     <item>
       <title>S05E02: David Baddiel, Trevor Noah, Joey Essex</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S05E02</guid>
-      <description>8 Out of 10 Cats Does Countdown - David Baddiel, Trevor Noah, Joey Essex</description>
+      <description>Sean Lock with Trevor Noah vs Jon Richardson with David Baddiel. Dictionary Corner: Joey Essex.</description>
       <pubDate>Wed, 14 Jun 2023 03:06:00 +0000</pubDate>
       <itunes:season>5</itunes:season>
       <itunes:episode>2</itunes:episode>
@@ -266,7 +266,7 @@
     <item>
       <title>S05E03: Vic Reeves, Jo Brand, Adam Buxton</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S05E03</guid>
-      <description>8 Out of 10 Cats Does Countdown - Vic Reeves, Jo Brand, Adam Buxton</description>
+      <description>Sean Lock with Jo Brand and Jon O'Neill vs Jon Richardson with Vic Reeves and Rob Beckett. Dictionary Corner: Adam Buxton.</description>
       <pubDate>Wed, 14 Jun 2023 04:23:00 +0000</pubDate>
       <itunes:season>5</itunes:season>
       <itunes:episode>3</itunes:episode>
@@ -276,7 +276,7 @@
     <item>
       <title>S06E00: Christmas Special 2014</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S06E00</guid>
-      <description>8 Out of 10 Cats Does Countdown - Christmas Special 2014</description>
+      <description>Christmas special: Sean Lock with Kathy Burke vs Jon Richardson with David Baddiel. Dictionary Corner: Alex Horne and The Horne Section.</description>
       <pubDate>Tue, 13 Jun 2023 09:10:00 +0000</pubDate>
       <itunes:season>6</itunes:season>
       <itunes:episode>0</itunes:episode>
@@ -286,7 +286,7 @@
     <item>
       <title>S06E01: David Mitchell, Katherine Ryan, David O'Doherty</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S06E01</guid>
-      <description>8 Out of 10 Cats Does Countdown - David Mitchell, Katherine Ryan, David O'Doherty</description>
+      <description>Sean Lock with David Mitchell vs Jon Richardson with Katherine Ryan. Dictionary Corner: David O'Doherty.</description>
       <pubDate>Mon, 12 Jun 2023 20:24:00 +0000</pubDate>
       <itunes:season>6</itunes:season>
       <itunes:episode>1</itunes:episode>
@@ -296,7 +296,7 @@
     <item>
       <title>S06E02: Roisin Conaty, Jack Whitehall, Rob Beckett</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S06E02</guid>
-      <description>8 Out of 10 Cats Does Countdown - Roisin Conaty, Jack Whitehall, Rob Beckett</description>
+      <description>Sean Lock with Roisin Conaty vs Jon Richardson with Jack Whitehall. Dictionary Corner: Rob Beckett.</description>
       <pubDate>Wed, 14 Jun 2023 05:46:00 +0000</pubDate>
       <itunes:season>6</itunes:season>
       <itunes:episode>2</itunes:episode>
@@ -306,7 +306,7 @@
     <item>
       <title>S06E03: Reginald D. Hunter, Aisling Bea, Holly Walsh</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S06E03</guid>
-      <description>8 Out of 10 Cats Does Countdown - Reginald D. Hunter, Aisling Bea, Holly Walsh</description>
+      <description>Sean Lock with Reginald D. Hunter vs Jon Richardson with Aisling Bea. Dictionary Corner: Holly Walsh.</description>
       <pubDate>Wed, 14 Jun 2023 09:23:00 +0000</pubDate>
       <itunes:season>6</itunes:season>
       <itunes:episode>3</itunes:episode>
@@ -316,7 +316,7 @@
     <item>
       <title>S06E04: Romesh Ranganathan, Johnny Vegas, Josie Long</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S06E04</guid>
-      <description>8 Out of 10 Cats Does Countdown - Romesh Ranganathan, Johnny Vegas, Josie Long</description>
+      <description>Sean Lock with Romesh Ranganathan vs Jon Richardson with Johnny Vegas. Dictionary Corner: Josie Long.</description>
       <pubDate>Wed, 14 Jun 2023 10:45:00 +0000</pubDate>
       <itunes:season>6</itunes:season>
       <itunes:episode>4</itunes:episode>
@@ -326,7 +326,7 @@
     <item>
       <title>S06E05: Vic Reeves, Bob Mortimer, Jack Whitehall</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S06E05</guid>
-      <description>8 Out of 10 Cats Does Countdown - Vic Reeves, Bob Mortimer, Jack Whitehall</description>
+      <description>Sean Lock with Vic Reeves vs Jon Richardson with Bob Mortimer. Dictionary Corner: Jack Whitehall.</description>
       <pubDate>Wed, 14 Jun 2023 14:54:00 +0000</pubDate>
       <itunes:season>6</itunes:season>
       <itunes:episode>5</itunes:episode>
@@ -336,7 +336,7 @@
     <item>
       <title>S06E06: Sarah Millican, Jason Manford, Jonathan Ross, Bill Bailey</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S06E06</guid>
-      <description>8 Out of 10 Cats Does Countdown - Sarah Millican, Jason Manford, Jonathan Ross, Bill Bailey</description>
+      <description>Sean Lock with Jason Manford and Jen Steadman vs Sarah Millican and Jonathan Ross and Roisin Conaty. Dictionary Corner: Bill Bailey.</description>
       <pubDate>Mon, 19 Jun 2023 23:17:00 +0000</pubDate>
       <itunes:season>6</itunes:season>
       <itunes:episode>6</itunes:episode>
@@ -346,7 +346,7 @@
     <item>
       <title>S07E01: Sarah Millican, Bill Bailey, Rob Delaney, Nina Conti</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S07E01</guid>
-      <description>8 Out of 10 Cats Does Countdown - Sarah Millican, Bill Bailey, Rob Delaney, Nina Conti</description>
+      <description>Sean Lock with Bill Bailey and Paul Foot vs Sarah Millican and Rob Delaney and Romesh Ranganathan. Dictionary Corner: Nina Conti.</description>
       <pubDate>Wed, 14 Jun 2023 16:37:00 +0000</pubDate>
       <itunes:season>7</itunes:season>
       <itunes:episode>1</itunes:episode>
@@ -356,7 +356,7 @@
     <item>
       <title>S07E02: Kevin Bridges, Kathy Burke, Joe Lycett, Nick Helm</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S07E02</guid>
-      <description>8 Out of 10 Cats Does Countdown - Kevin Bridges, Kathy Burke, Joe Lycett, Nick Helm</description>
+      <description>Sean Lock with Kevin Bridges vs Jon Richardson with Kathy Burke. Dictionary Corner: Joe Lycett.</description>
       <pubDate>Wed, 14 Jun 2023 18:16:00 +0000</pubDate>
       <itunes:season>7</itunes:season>
       <itunes:episode>2</itunes:episode>
@@ -366,7 +366,7 @@
     <item>
       <title>S07E03: Rhod Gilbert, Sara Pascoe, Johnny Vegas, Joey Essex</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S07E03</guid>
-      <description>8 Out of 10 Cats Does Countdown - Rhod Gilbert, Sara Pascoe, Johnny Vegas, Joey Essex</description>
+      <description>Sean Lock with Rhod Gilbert vs Jon Richardson with Sara Pascoe. Dictionary Corner: Johnny Vegas.</description>
       <pubDate>Wed, 14 Jun 2023 19:57:00 +0000</pubDate>
       <itunes:season>7</itunes:season>
       <itunes:episode>3</itunes:episode>
@@ -376,7 +376,7 @@
     <item>
       <title>S07E04: Katherine Ryan, Rob Beckett, Greg Davies</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S07E04</guid>
-      <description>8 Out of 10 Cats Does Countdown - Katherine Ryan, Rob Beckett, Greg Davies</description>
+      <description>Sean Lock with Rob Beckett vs Jon Richardson with Katherine Ryan. Dictionary Corner: Greg Davies.</description>
       <pubDate>Wed, 14 Jun 2023 21:24:00 +0000</pubDate>
       <itunes:season>7</itunes:season>
       <itunes:episode>4</itunes:episode>
@@ -386,7 +386,7 @@
     <item>
       <title>S07E05: Miles Jupp, Greg Davies, Holly Walsh</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S07E05</guid>
-      <description>8 Out of 10 Cats Does Countdown - Miles Jupp, Greg Davies, Holly Walsh</description>
+      <description>Sean Lock with Miles Jupp vs Jon Richardson with Greg Davies. Dictionary Corner: Holly Walsh.</description>
       <pubDate>Wed, 14 Jun 2023 22:59:00 +0000</pubDate>
       <itunes:season>7</itunes:season>
       <itunes:episode>5</itunes:episode>
@@ -396,7 +396,7 @@
     <item>
       <title>S07E06: Vic Reeves, Lee Mack, Sara Pascoe, Alex Horne</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S07E06</guid>
-      <description>8 Out of 10 Cats Does Countdown - Vic Reeves, Lee Mack, Sara Pascoe, Alex Horne</description>
+      <description>Sean Lock with Vic Reeves vs Lee Mack and Sara Pascoe. Dictionary Corner: Alex Horne and The Horne Section.</description>
       <pubDate>Thu, 15 Jun 2023 00:29:00 +0000</pubDate>
       <itunes:season>7</itunes:season>
       <itunes:episode>6</itunes:episode>
@@ -406,7 +406,7 @@
     <item>
       <title>S07E07: Bob Mortimer, Sarah Millican, Katherine Ryan, Alex Horne</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S07E07</guid>
-      <description>8 Out of 10 Cats Does Countdown - Bob Mortimer, Sarah Millican, Katherine Ryan, Alex Horne</description>
+      <description>Sean Lock with Bob Mortimer vs Sarah Millican and Katherine Ryan. Dictionary Corner: Alex Horne and The Horne Section.</description>
       <pubDate>Thu, 15 Jun 2023 02:12:00 +0000</pubDate>
       <itunes:season>7</itunes:season>
       <itunes:episode>7</itunes:episode>
@@ -416,7 +416,7 @@
     <item>
       <title>S07E08: Roisin Conaty, Sarah Millican, Rhod Gilbert, David O'Doherty</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S07E08</guid>
-      <description>8 Out of 10 Cats Does Countdown - Roisin Conaty, Sarah Millican, Rhod Gilbert, David O'Doherty</description>
+      <description>Sean Lock with Roisin Conaty and Rachel Riley vs Sarah Millican and Rhod Gilbert and Susie Dent. Dictionary Corner: David O'Doherty.</description>
       <pubDate>Thu, 15 Jun 2023 03:46:00 +0000</pubDate>
       <itunes:season>7</itunes:season>
       <itunes:episode>8</itunes:episode>
@@ -426,7 +426,7 @@
     <item>
       <title>S07E09: Seann Walsh, Joe Wilkinson, Danny Dyer, Bill Bailey</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S07E09</guid>
-      <description>8 Out of 10 Cats Does Countdown - Seann Walsh, Joe Wilkinson, Danny Dyer, Bill Bailey</description>
+      <description>Sean Lock with Seann Walsh and Antoinette Ryan vs Joe Wilkinson and Danny Dyer. Dictionary Corner: Bill Bailey.</description>
       <pubDate>Sat, 17 Jun 2023 05:15:00 +0000</pubDate>
       <itunes:season>7</itunes:season>
       <itunes:episode>9</itunes:episode>
@@ -436,7 +436,7 @@
     <item>
       <title>S07E10: Johnny Vegas, Sarah Millican, Rob Beckett, Vic Reeves</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S07E10</guid>
-      <description>8 Out of 10 Cats Does Countdown - Johnny Vegas, Sarah Millican, Rob Beckett, Vic Reeves</description>
+      <description>Sean Lock with Johnny Vegas vs Sarah Millican and Rob Beckett. Dictionary Corner: Vic Reeves.</description>
       <pubDate>Thu, 15 Jun 2023 09:59:00 +0000</pubDate>
       <itunes:season>7</itunes:season>
       <itunes:episode>10</itunes:episode>
@@ -446,7 +446,7 @@
     <item>
       <title>S07E11: Mel Giedroyc, Lee Mack, David O'Doherty, Adam Buxton</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S07E11</guid>
-      <description>8 Out of 10 Cats Does Countdown - Mel Giedroyc, Lee Mack, David O'Doherty, Adam Buxton</description>
+      <description>Sean Lock with Mel Giedroyc vs Lee Mack and David O'Doherty. Dictionary Corner: Adam Buxton.</description>
       <pubDate>Sat, 17 Jun 2023 06:32:00 +0000</pubDate>
       <itunes:season>7</itunes:season>
       <itunes:episode>11</itunes:episode>
@@ -456,7 +456,7 @@
     <item>
       <title>S07E12: Freddie Flintoff, Bill Bailey, Roisin Conaty, Rob Beckett</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S07E12</guid>
-      <description>8 Out of 10 Cats Does Countdown - Freddie Flintoff, Bill Bailey, Roisin Conaty, Rob Beckett</description>
+      <description>Sean Lock with Freddie Flintoff vs Bill Bailey and Roisin Conaty. Dictionary Corner: Rob Beckett.</description>
       <pubDate>Tue, 13 Jun 2023 17:03:00 +0000</pubDate>
       <itunes:season>7</itunes:season>
       <itunes:episode>12</itunes:episode>
@@ -466,7 +466,7 @@
     <item>
       <title>S07E13: Liza Tarbuck, Sarah Millican, Romesh Ranganathan, Phill Jupitus</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S07E13</guid>
-      <description>8 Out of 10 Cats Does Countdown - Liza Tarbuck, Sarah Millican, Romesh Ranganathan, Phill Jupitus</description>
+      <description>Sean Lock with Liza Tarbuck vs Sarah Millican and Romesh Ranganathan. Dictionary Corner: Phill Jupitus.</description>
       <pubDate>Tue, 13 Jun 2023 12:54:00 +0000</pubDate>
       <itunes:season>7</itunes:season>
       <itunes:episode>13</itunes:episode>
@@ -476,7 +476,7 @@
     <item>
       <title>S07E14: Bill Bailey, Joe Wilkinson, Isy Suttie, Joe Lycett</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S07E14</guid>
-      <description>8 Out of 10 Cats Does Countdown - Bill Bailey, Joe Wilkinson, Isy Suttie, Joe Lycett</description>
+      <description>Sean Lock with Bill Bailey vs Joe Wilkinson and Isy Suttie. Dictionary Corner: Joe Lycett.</description>
       <pubDate>Thu, 15 Jun 2023 13:13:00 +0000</pubDate>
       <itunes:season>7</itunes:season>
       <itunes:episode>14</itunes:episode>
@@ -486,7 +486,7 @@
     <item>
       <title>S07E15: Henning Wehn, Bill Bailey, Jessica Hynes, Tom Allen</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S07E15</guid>
-      <description>8 Out of 10 Cats Does Countdown - Henning Wehn, Bill Bailey, Jessica Hynes, Tom Allen</description>
+      <description>Sean Lock with Henning Wehn vs Bill Bailey and Jessica Hynes. Dictionary Corner: Tom Allen.</description>
       <pubDate>Thu, 15 Jun 2023 14:38:00 +0000</pubDate>
       <itunes:season>7</itunes:season>
       <itunes:episode>15</itunes:episode>
@@ -496,7 +496,7 @@
     <item>
       <title>S07E16: Sara Pascoe, Josh Widdicombe, Alex Horne</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S07E16</guid>
-      <description>8 Out of 10 Cats Does Countdown - Sara Pascoe, Josh Widdicombe, Alex Horne</description>
+      <description>Sean Lock with Sara Pascoe vs Jon Richardson with Josh Widdicombe and Alex Brooker. Dictionary Corner: Alex Horne and The Horne Section.</description>
       <pubDate>Thu, 15 Jun 2023 16:01:00 +0000</pubDate>
       <itunes:season>7</itunes:season>
       <itunes:episode>16</itunes:episode>
@@ -506,7 +506,7 @@
     <item>
       <title>S07E17: Greg Davies, Holly Walsh, Vic Reeves</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S07E17</guid>
-      <description>8 Out of 10 Cats Does Countdown - Greg Davies, Holly Walsh, Vic Reeves</description>
+      <description>Sean Lock with Greg Davies vs Jon Richardson with Holly Walsh. Dictionary Corner: Vic Reeves.</description>
       <pubDate>Fri, 09 Jun 2023 22:22:00 +0000</pubDate>
       <itunes:season>7</itunes:season>
       <itunes:episode>17</itunes:episode>
@@ -516,7 +516,7 @@
     <item>
       <title>S08E00: Christmas Special 2015</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S08E00</guid>
-      <description>8 Out of 10 Cats Does Countdown - Christmas Special 2015</description>
+      <description>Christmas special: Sean Lock with Johnny Vegas vs Jon Richardson with Katherine Ryan. Dictionary Corner: David O'Doherty.</description>
       <pubDate>Thu, 08 Jun 2023 20:09:00 +0000</pubDate>
       <itunes:season>8</itunes:season>
       <itunes:episode>0</itunes:episode>
@@ -526,7 +526,7 @@
     <item>
       <title>S08E01: Jason Manford, Roisin Conaty, Sam Simmons</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S08E01</guid>
-      <description>8 Out of 10 Cats Does Countdown - Jason Manford, Roisin Conaty, Sam Simmons</description>
+      <description>Sean Lock with Jason Manford vs Jon Richardson with Roisin Conaty. Dictionary Corner: Sam Simmons.</description>
       <pubDate>Thu, 15 Jun 2023 17:35:00 +0000</pubDate>
       <itunes:season>8</itunes:season>
       <itunes:episode>1</itunes:episode>
@@ -536,7 +536,7 @@
     <item>
       <title>S08E02: Rob Beckett, Cariad Lloyd, Jamie Laing</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S08E02</guid>
-      <description>8 Out of 10 Cats Does Countdown - Rob Beckett, Cariad Lloyd, Jamie Laing</description>
+      <description>Sean Lock with Rob Beckett vs Jon Richardson with Cariad Lloyd. Dictionary Corner: Jamie Laing.</description>
       <pubDate>Thu, 15 Jun 2023 19:06:00 +0000</pubDate>
       <itunes:season>8</itunes:season>
       <itunes:episode>2</itunes:episode>
@@ -546,7 +546,7 @@
     <item>
       <title>S08E03: Miles Jupp, Sara Pascoe, Sam Simmons</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S08E03</guid>
-      <description>8 Out of 10 Cats Does Countdown - Miles Jupp, Sara Pascoe, Sam Simmons</description>
+      <description>Sean Lock with Miles Jupp vs Jon Richardson with Sara Pascoe. Dictionary Corner: Sam Simmons.</description>
       <pubDate>Thu, 15 Jun 2023 20:51:00 +0000</pubDate>
       <itunes:season>8</itunes:season>
       <itunes:episode>3</itunes:episode>
@@ -556,7 +556,7 @@
     <item>
       <title>S08E04: Isy Suttie, Richard Osman, Alex Horne</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S08E04</guid>
-      <description>8 Out of 10 Cats Does Countdown - Isy Suttie, Richard Osman, Alex Horne</description>
+      <description>Sean Lock with Isy Suttie vs Jon Richardson with Richard Osman. Dictionary Corner: Alex Horne and The Horne Section.</description>
       <pubDate>Thu, 15 Jun 2023 22:18:00 +0000</pubDate>
       <itunes:season>8</itunes:season>
       <itunes:episode>4</itunes:episode>
@@ -566,7 +566,7 @@
     <item>
       <title>S09E01: Vic Reeves, Aisling Bea, David O'Doherty</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S09E01</guid>
-      <description>8 Out of 10 Cats Does Countdown - Vic Reeves, Aisling Bea, David O'Doherty</description>
+      <description>Sean Lock with Vic Reeves vs Jon Richardson with Aisling Bea. Dictionary Corner: David O'Doherty.</description>
       <pubDate>Thu, 15 Jun 2023 11:25:00 +0000</pubDate>
       <itunes:season>9</itunes:season>
       <itunes:episode>1</itunes:episode>
@@ -576,7 +576,7 @@
     <item>
       <title>S09E02: Bob Mortimer, Holly Walsh, Isy Suttie, Claudia Winkleman</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S09E02</guid>
-      <description>8 Out of 10 Cats Does Countdown - Bob Mortimer, Holly Walsh, Isy Suttie, Claudia Winkleman</description>
+      <description>Sean Lock with Bob Mortimer vs Jon Richardson with Holly Walsh. Dictionary Corner: Isy Suttie.</description>
       <pubDate>Thu, 15 Jun 2023 23:38:00 +0000</pubDate>
       <itunes:season>9</itunes:season>
       <itunes:episode>2</itunes:episode>
@@ -586,7 +586,7 @@
     <item>
       <title>S09E03: Alex Brooker, Johnny Vegas, Sara Pascoe, Tom Allen, Claudia Winkleman, Rob Beckett</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S09E03</guid>
-      <description>8 Out of 10 Cats Does Countdown - Alex Brooker, Johnny Vegas, Sara Pascoe, Tom Allen, Claudia Winkleman, Rob Beckett</description>
+      <description>Johnny Vegas and Sara Pascoe vs Jon Richardson with Alex Brooker. Dictionary Corner: Tom Allen.</description>
       <pubDate>Fri, 16 Jun 2023 03:06:00 +0000</pubDate>
       <itunes:season>9</itunes:season>
       <itunes:episode>3</itunes:episode>
@@ -596,7 +596,7 @@
     <item>
       <title>S09E04: Rebecca Front, Kevin Bridges, Joe Lycett</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S09E04</guid>
-      <description>8 Out of 10 Cats Does Countdown - Rebecca Front, Kevin Bridges, Joe Lycett</description>
+      <description>Sean Lock with Kevin Bridges vs Jon Richardson with Rebecca Front. Dictionary Corner: Joe Lycett.</description>
       <pubDate>Fri, 16 Jun 2023 05:21:00 +0000</pubDate>
       <itunes:season>9</itunes:season>
       <itunes:episode>4</itunes:episode>
@@ -606,7 +606,7 @@
     <item>
       <title>S09E05: Katherine Ryan, David Mitchell, Nick Helm</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S09E05</guid>
-      <description>8 Out of 10 Cats Does Countdown - Katherine Ryan, David Mitchell, Nick Helm</description>
+      <description>Sean Lock with Katherine Ryan vs Jon Richardson with David Mitchell. Dictionary Corner: Nick Helm.</description>
       <pubDate>Mon, 12 Jun 2023 22:36:00 +0000</pubDate>
       <itunes:season>9</itunes:season>
       <itunes:episode>5</itunes:episode>
@@ -616,7 +616,7 @@
     <item>
       <title>S10E01: Henning Wehn, Victoria Coren Mitchell, Tom Allen</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S10E01</guid>
-      <description>8 Out of 10 Cats Does Countdown - Henning Wehn, Victoria Coren Mitchell, Tom Allen</description>
+      <description>Sean Lock with Henning Wehn vs Jon Richardson with Victoria Coren Mitchell. Dictionary Corner: Tom Allen.</description>
       <pubDate>Tue, 13 Jun 2023 11:25:00 +0000</pubDate>
       <itunes:season>10</itunes:season>
       <itunes:episode>1</itunes:episode>
@@ -626,7 +626,7 @@
     <item>
       <title>S10E02: Roisin Conaty, Nish Kumar, Adam Buxton</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S10E02</guid>
-      <description>8 Out of 10 Cats Does Countdown - Roisin Conaty, Nish Kumar, Adam Buxton</description>
+      <description>Sean Lock with Roisin Conaty vs Jon Richardson with Nish Kumar. Dictionary Corner: Adam Buxton.</description>
       <pubDate>Fri, 16 Jun 2023 07:24:00 +0000</pubDate>
       <itunes:season>10</itunes:season>
       <itunes:episode>2</itunes:episode>
@@ -636,7 +636,7 @@
     <item>
       <title>S10E03: David O'Doherty, Natasia Demetriou, John Kearns</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S10E03</guid>
-      <description>8 Out of 10 Cats Does Countdown - David O'Doherty, Natasia Demetriou, John Kearns</description>
+      <description>Sean Lock with David O'Doherty vs Jon Richardson with Natasia Demetriou. Dictionary Corner: John Kearns.</description>
       <pubDate>Fri, 16 Jun 2023 09:26:00 +0000</pubDate>
       <itunes:season>10</itunes:season>
       <itunes:episode>3</itunes:episode>
@@ -646,7 +646,7 @@
     <item>
       <title>S10E04: David Mitchell, Katherine Ryan, Brett Domino Trio</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S10E04</guid>
-      <description>8 Out of 10 Cats Does Countdown - David Mitchell, Katherine Ryan, Brett Domino Trio</description>
+      <description>Sean Lock with David Mitchell vs Jon Richardson with Katherine Ryan. Dictionary Corner: Brett Domino Trio.</description>
       <pubDate>Fri, 16 Jun 2023 12:05:00 +0000</pubDate>
       <itunes:season>10</itunes:season>
       <itunes:episode>4</itunes:episode>
@@ -656,7 +656,7 @@
     <item>
       <title>S10E05: Claudia Winkleman, Johnny Vegas, Reginald D. Hunter, Sara Pascoe</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S10E05</guid>
-      <description>8 Out of 10 Cats Does Countdown - Claudia Winkleman, Johnny Vegas, Reginald D. Hunter, Sara Pascoe</description>
+      <description>Claudia Winkleman and Johnny Vegas vs Jon Richardson with Reginald D. Hunter. Dictionary Corner: Sara Pascoe.</description>
       <pubDate>Fri, 16 Jun 2023 14:15:00 +0000</pubDate>
       <itunes:season>10</itunes:season>
       <itunes:episode>5</itunes:episode>
@@ -666,7 +666,7 @@
     <item>
       <title>S11E01: David Walliams, Jonathan Ross, Joe Lycett, Isy Suttie</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S11E01</guid>
-      <description>8 Out of 10 Cats Does Countdown - David Walliams, Jonathan Ross, Joe Lycett, Isy Suttie</description>
+      <description>David Walliams and Jonathan Ross vs Jon Richardson with Joe Lycett. Dictionary Corner: Isy Suttie.</description>
       <pubDate>Fri, 16 Jun 2023 16:26:00 +0000</pubDate>
       <itunes:season>11</itunes:season>
       <itunes:episode>1</itunes:episode>
@@ -676,7 +676,7 @@
     <item>
       <title>S11E02: Lee Mack, Catherine Tate, Miles Jupp, John Cooper Clarke</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S11E02</guid>
-      <description>8 Out of 10 Cats Does Countdown - Lee Mack, Catherine Tate, Miles Jupp, John Cooper Clarke</description>
+      <description>Sean Lock with Miles Jupp vs Lee Mack and Catherine Tate. Dictionary Corner: John Cooper Clarke.</description>
       <pubDate>Fri, 16 Jun 2023 18:29:00 +0000</pubDate>
       <itunes:season>11</itunes:season>
       <itunes:episode>2</itunes:episode>
@@ -686,7 +686,7 @@
     <item>
       <title>S11E03: David Walliams, Jessica Hynes, Rhod Gilbert, Sam Simmons</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S11E03</guid>
-      <description>8 Out of 10 Cats Does Countdown - David Walliams, Jessica Hynes, Rhod Gilbert, Sam Simmons</description>
+      <description>David Walliams and Jessica Hynes vs Jon Richardson with Rhod Gilbert. Dictionary Corner: Sam Simmons.</description>
       <pubDate>Fri, 16 Jun 2023 20:49:00 +0000</pubDate>
       <itunes:season>11</itunes:season>
       <itunes:episode>3</itunes:episode>
@@ -696,7 +696,7 @@
     <item>
       <title>S11E04: Lee Mack, Bob Mortimer, Victoria Coren Mitchell, Alex Horne</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S11E04</guid>
-      <description>8 Out of 10 Cats Does Countdown - Lee Mack, Bob Mortimer, Victoria Coren Mitchell, Alex Horne</description>
+      <description>Sean Lock with Victoria Coren Mitchell vs Lee Mack and Bob Mortimer. Dictionary Corner: Alex Horne and The Horne Section.</description>
       <pubDate>Sat, 10 Jun 2023 04:34:00 +0000</pubDate>
       <itunes:season>11</itunes:season>
       <itunes:episode>4</itunes:episode>
@@ -706,7 +706,7 @@
     <item>
       <title>S11E05: Richard Ayoade, Rob Beckett, Claudia Winkleman, Adam Riches</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S11E05</guid>
-      <description>8 Out of 10 Cats Does Countdown - Richard Ayoade, Rob Beckett, Claudia Winkleman, Adam Riches</description>
+      <description>Richard Ayoade and Rob Beckett vs Jon Richardson with Claudia Winkleman. Dictionary Corner: Adam Riches as "Sean Bean".</description>
       <pubDate>Fri, 16 Jun 2023 23:00:00 +0000</pubDate>
       <itunes:season>11</itunes:season>
       <itunes:episode>5</itunes:episode>
@@ -716,7 +716,7 @@
     <item>
       <title>S11E06: Danny Dyer, Joe Wilkinson, Gabby Logan, David O'Doherty</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S11E06</guid>
-      <description>8 Out of 10 Cats Does Countdown - Danny Dyer, Joe Wilkinson, Gabby Logan, David O'Doherty</description>
+      <description>Sean Lock with Danny Dyer vs Joe Wilkinson and Gabby Logan. Dictionary Corner: David O'Doherty.</description>
       <pubDate>Thu, 08 Jun 2023 23:54:00 +0000</pubDate>
       <itunes:season>11</itunes:season>
       <itunes:episode>6</itunes:episode>
@@ -726,7 +726,7 @@
     <item>
       <title>S11E07: David Mitchell, Cariad Lloyd, Russell Howard, Sam Simmons</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S11E07</guid>
-      <description>8 Out of 10 Cats Does Countdown - David Mitchell, Cariad Lloyd, Russell Howard, Sam Simmons</description>
+      <description>David Mitchell and Cariad Lloyd vs Jon Richardson with Russell Howard. Dictionary Corner: Sam Simmons.</description>
       <pubDate>Fri, 09 Jun 2023 02:04:00 +0000</pubDate>
       <itunes:season>11</itunes:season>
       <itunes:episode>7</itunes:episode>
@@ -736,7 +736,7 @@
     <item>
       <title>S12E00: Christmas Special 2016</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S12E00-CHRISTMASSPECIAL2016</guid>
-      <description>8 Out of 10 Cats Does Countdown - Christmas Special 2016</description>
+      <description>Christmas special: Sean Lock with Kathy Burke vs Jon Richardson with Russell Howard. Dictionary Corner: Joe Lycett.</description>
       <pubDate>Thu, 08 Jun 2023 16:31:00 +0000</pubDate>
       <itunes:season>12</itunes:season>
       <itunes:episode>0</itunes:episode>
@@ -746,7 +746,7 @@
     <item>
       <title>S12E00: New Year Special 2016</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S12E00-NEWYEARSPECIAL2016</guid>
-      <description>8 Out of 10 Cats Does Countdown - New Year Special 2016</description>
+      <description>New Year special: Johnny Vegas and Sara Pascoe vs Jon Richardson with Richard Osman. Dictionary Corner: David O'Doherty.</description>
       <pubDate>Fri, 09 Jun 2023 05:46:00 +0000</pubDate>
       <itunes:season>12</itunes:season>
       <itunes:episode>0</itunes:episode>
@@ -756,7 +756,7 @@
     <item>
       <title>S12E01: Stephen Mangan, Noel Fielding, Fay Ripley, Brett Domino Trio</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S12E01</guid>
-      <description>8 Out of 10 Cats Does Countdown - Stephen Mangan, Noel Fielding, Fay Ripley, Brett Domino Trio</description>
+      <description>Sean Lock with Stephen Mangan vs Noel Fielding and Fay Ripley. Dictionary Corner: Brett Domino Trio.</description>
       <pubDate>Fri, 09 Jun 2023 08:13:00 +0000</pubDate>
       <itunes:season>12</itunes:season>
       <itunes:episode>1</itunes:episode>
@@ -766,7 +766,7 @@
     <item>
       <title>S12E02: Russell Howard, Roisin Conaty, Phil Wang, Nick Helm</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S12E02</guid>
-      <description>8 Out of 10 Cats Does Countdown - Russell Howard, Roisin Conaty, Phil Wang, Nick Helm</description>
+      <description>Russell Howard and Roisin Conaty vs Jon Richardson with Phil Wang. Dictionary Corner: Nick Helm.</description>
       <pubDate>Fri, 09 Jun 2023 04:22:00 +0000</pubDate>
       <itunes:season>12</itunes:season>
       <itunes:episode>2</itunes:episode>
@@ -776,7 +776,7 @@
     <item>
       <title>S12E03: David O'Doherty, Johnny Vegas, Jamie Laing, Holly Walsh</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S12E03</guid>
-      <description>8 Out of 10 Cats Does Countdown - David O'Doherty, Johnny Vegas, Jamie Laing, Holly Walsh</description>
+      <description>Johnny Vegas and Jamie Laing vs Jon Richardson with David O'Doherty. Dictionary Corner: Holly Walsh.</description>
       <pubDate>Thu, 08 Jun 2023 18:31:00 +0000</pubDate>
       <itunes:season>12</itunes:season>
       <itunes:episode>3</itunes:episode>
@@ -786,7 +786,7 @@
     <item>
       <title>S12E04: Joe Wilkinson, Jayde Adams, David Baddiel</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S12E04</guid>
-      <description>8 Out of 10 Cats Does Countdown - Joe Wilkinson, Jayde Adams, David Baddiel</description>
+      <description>Sean Lock with Joe Wilkinson vs Jon Richardson with Jayde Adams. Dictionary Corner: David Baddiel.</description>
       <pubDate>Fri, 09 Jun 2023 16:51:00 +0000</pubDate>
       <itunes:season>12</itunes:season>
       <itunes:episode>4</itunes:episode>
@@ -796,7 +796,7 @@
     <item>
       <title>S12E05: Joe Wilkinson, David Mitchell, Roisin Conaty, Tom Allen</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S12E05</guid>
-      <description>8 Out of 10 Cats Does Countdown - Joe Wilkinson, David Mitchell, Roisin Conaty, Tom Allen</description>
+      <description>Joe Wilkinson and Roisin Conaty vs Jon Richardson with David Mitchell. Dictionary Corner: Tom Allen.</description>
       <pubDate>Fri, 09 Jun 2023 18:55:00 +0000</pubDate>
       <itunes:season>12</itunes:season>
       <itunes:episode>5</itunes:episode>
@@ -806,7 +806,7 @@
     <item>
       <title>S12E06: Jonathan Ross, Michelle Wolf, Johnny Vegas, Pappy's</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S12E06</guid>
-      <description>8 Out of 10 Cats Does Countdown - Jonathan Ross, Michelle Wolf, Johnny Vegas, Pappy's</description>
+      <description>Jonathan Ross and Johnny Vegas vs Jon Richardson with Michelle Wolf. Dictionary Corner: Pappy's.</description>
       <pubDate>Fri, 09 Jun 2023 21:03:00 +0000</pubDate>
       <itunes:season>12</itunes:season>
       <itunes:episode>6</itunes:episode>
@@ -816,7 +816,7 @@
     <item>
       <title>S12E07: James Acaster, Lee Mack, Sarah Millican, John Cooper Clarke</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S12E07</guid>
-      <description>8 Out of 10 Cats Does Countdown - James Acaster, Lee Mack, Sarah Millican, John Cooper Clarke</description>
+      <description>Lee Mack and Sarah Millican vs Jon Richardson with James Acaster. Dictionary Corner: John Cooper Clarke.</description>
       <pubDate>Fri, 09 Jun 2023 13:39:00 +0000</pubDate>
       <itunes:season>12</itunes:season>
       <itunes:episode>7</itunes:episode>
@@ -826,7 +826,7 @@
     <item>
       <title>S12E08: Joe Wilkinson, Chris Addison, Katherine Ryan, David O'Doherty</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S12E08</guid>
-      <description>8 Out of 10 Cats Does Countdown - Joe Wilkinson, Chris Addison, Katherine Ryan, David O'Doherty</description>
+      <description>Joe Wilkinson and Katherine Ryan vs Jon Richardson with Chris Addison. Dictionary Corner: David O'Doherty.</description>
       <pubDate>Fri, 09 Jun 2023 11:40:00 +0000</pubDate>
       <itunes:season>12</itunes:season>
       <itunes:episode>8</itunes:episode>
@@ -836,7 +836,7 @@
     <item>
       <title>S13E00: Election Special 2017</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S13E00</guid>
-      <description>8 Out of 10 Cats Does Countdown - Election Special 2017</description>
+      <description>Election special: Alan Carr and Romesh Ranganathan vs Jon Richardson with Sarah Millican. Dictionary Corner: John Kearns.</description>
       <pubDate>Thu, 08 Jun 2023 21:48:00 +0000</pubDate>
       <itunes:season>13</itunes:season>
       <itunes:episode>0</itunes:episode>
@@ -846,7 +846,7 @@
     <item>
       <title>S13E01: Joe Lycett, Michelle Wolf, Adam Riches</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S13E01</guid>
-      <description>8 Out of 10 Cats Does Countdown - Joe Lycett, Michelle Wolf, Adam Riches</description>
+      <description>Sean Lock with Michelle Wolf vs Jon Richardson with Joe Lycett. Dictionary Corner: Adam Riches as "Sean Bean".</description>
       <pubDate>Sat, 17 Jun 2023 01:10:00 +0000</pubDate>
       <itunes:season>13</itunes:season>
       <itunes:episode>1</itunes:episode>
@@ -856,7 +856,7 @@
     <item>
       <title>S13E02: Jonathan Ross, Lee Mack, Victoria Coren Mitchell, Jessie Cave</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S13E02</guid>
-      <description>8 Out of 10 Cats Does Countdown - Jonathan Ross, Lee Mack, Victoria Coren Mitchell, Jessie Cave</description>
+      <description>Lee Mack and Victoria Coren Mitchell vs Jon Richardson with Jonathan Ross. Dictionary Corner: Jessie Cave.</description>
       <pubDate>Sat, 17 Jun 2023 03:49:00 +0000</pubDate>
       <itunes:season>13</itunes:season>
       <itunes:episode>2</itunes:episode>
@@ -866,7 +866,7 @@
     <item>
       <title>S13E03: Stephen Mangan, Richard Ayoade, Katherine Ryan, Bill Bailey</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S13E03</guid>
-      <description>8 Out of 10 Cats Does Countdown - Stephen Mangan, Richard Ayoade, Katherine Ryan, Bill Bailey</description>
+      <description>Sean Lock with Stephen Mangan vs Richard Ayoade and Katherine Ryan. Dictionary Corner: Bill Bailey.</description>
       <pubDate>Fri, 16 Jun 2023 01:42:00 +0000</pubDate>
       <itunes:season>13</itunes:season>
       <itunes:episode>3</itunes:episode>
@@ -876,7 +876,7 @@
     <item>
       <title>S14E01: Cariad Lloyd, Alan Carr, Kevin Bridges, Elis James, Jon Robins</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S14E01</guid>
-      <description>8 Out of 10 Cats Does Countdown - Cariad Lloyd, Alan Carr, Kevin Bridges, Elis James, Jon Robins</description>
+      <description>Alan Carr and Kevin Bridges vs Jon Richardson with Cariad Lloyd. Dictionary Corner: Elis James and John Robins.</description>
       <pubDate>Thu, 15 Jun 2023 08:26:00 +0000</pubDate>
       <itunes:season>14</itunes:season>
       <itunes:episode>1</itunes:episode>
@@ -886,7 +886,7 @@
     <item>
       <title>S14E02: Kathy Burke, Roisin Conaty, Johnny Vegas, Bob Mortimer, John Cooper Clarke</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S14E02</guid>
-      <description>8 Out of 10 Cats Does Countdown - Kathy Burke, Roisin Conaty, Johnny Vegas, Bob Mortimer, John Cooper Clarke</description>
+      <description>Johnny Vegas and Bob Mortimer vs Kathy Burke and Roisin Conaty. Dictionary Corner: John Cooper Clarke.</description>
       <pubDate>Wed, 14 Jun 2023 07:55:00 +0000</pubDate>
       <itunes:season>14</itunes:season>
       <itunes:episode>2</itunes:episode>
@@ -896,7 +896,7 @@
     <item>
       <title>S14E03: Jason Manford, Alan Carr, Katherine Ryan, Ivan Brackenbury</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S14E03</guid>
-      <description>8 Out of 10 Cats Does Countdown - Jason Manford, Alan Carr, Katherine Ryan, Ivan Brackenbury</description>
+      <description>Alan Carr and Katherine Ryan vs Jon Richardson with Jason Manford. Dictionary Corner: Tom Binns as Ivan Brackenbury.</description>
       <pubDate>Thu, 15 Jun 2023 06:02:00 +0000</pubDate>
       <itunes:season>14</itunes:season>
       <itunes:episode>3</itunes:episode>
@@ -906,7 +906,7 @@
     <item>
       <title>S14E04: Vic Reeves, Sara Pascoe, David O'Doherty</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S14E04</guid>
-      <description>8 Out of 10 Cats Does Countdown - Vic Reeves, Sara Pascoe, David O'Doherty</description>
+      <description>Sean Lock with Vic Reeves vs Jon Richardson with Sara Pascoe. Dictionary Corner: David O'Doherty.</description>
       <pubDate>Wed, 14 Jun 2023 12:57:00 +0000</pubDate>
       <itunes:season>14</itunes:season>
       <itunes:episode>4</itunes:episode>
@@ -916,7 +916,7 @@
     <item>
       <title>S14E05: Jason Manford, Joe Wilkinson, Lee Mack, Fay Ripley, Alex Horne</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S14E05</guid>
-      <description>8 Out of 10 Cats Does Countdown - Jason Manford, Joe Wilkinson, Lee Mack, Fay Ripley, Alex Horne</description>
+      <description>Jason Manford and Joe Wilkinson vs Lee Mack and Fay Ripley. Dictionary Corner: Alex Horne and The Horne Section.</description>
       <pubDate>Tue, 20 Jun 2023 02:42:00 +0000</pubDate>
       <itunes:season>14</itunes:season>
       <itunes:episode>5</itunes:episode>
@@ -926,7 +926,7 @@
     <item>
       <title>S15E00: Christmas Special 2017</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S15E00</guid>
-      <description>8 Out of 10 Cats Does Countdown - Christmas Special 2017</description>
+      <description>Christmas special: Sean Lock with Joe Wilkinson vs Jon Richardson with Catherine Tate. Dictionary Corner: Joe Lycett.</description>
       <pubDate>Sun, 18 Jun 2023 14:34:00 +0000</pubDate>
       <itunes:season>15</itunes:season>
       <itunes:episode>0</itunes:episode>
@@ -936,7 +936,7 @@
     <item>
       <title>S15E01: Joe Wilkinson, Kevin Bridges, Jessica Knappett, John Cooper Clarke</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S15E01</guid>
-      <description>8 Out of 10 Cats Does Countdown - Joe Wilkinson, Kevin Bridges, Jessica Knappett, John Cooper Clarke</description>
+      <description>Kevin Bridges and Jessica Knappett vs Jon Richardson with Joe Wilkinson. Dictionary Corner: John Cooper Clarke.</description>
       <pubDate>Tue, 20 Jun 2023 07:02:00 +0000</pubDate>
       <itunes:season>15</itunes:season>
       <itunes:episode>1</itunes:episode>
@@ -946,7 +946,7 @@
     <item>
       <title>S15E02: Lee Mack, Victoria Coren Mitchell, Alan Carr, Dane Baptiste, Sam Simmons</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S15E02</guid>
-      <description>8 Out of 10 Cats Does Countdown - Lee Mack, Victoria Coren Mitchell, Alan Carr, Dane Baptiste, Sam Simmons</description>
+      <description>Lee Mack and Victoria Coren Mitchell vs Alan Carr and Dane Baptiste. Dictionary Corner: Sam Simmons.</description>
       <pubDate>Tue, 20 Jun 2023 04:51:00 +0000</pubDate>
       <itunes:season>15</itunes:season>
       <itunes:episode>2</itunes:episode>
@@ -956,7 +956,7 @@
     <item>
       <title>S15E03: Alan Carr, Josh Widdicombe, Joe Wilkinson, Sara Pascoe, Bill Bailey</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S15E03</guid>
-      <description>8 Out of 10 Cats Does Countdown - Alan Carr, Josh Widdicombe, Joe Wilkinson, Sara Pascoe, Bill Bailey</description>
+      <description>Joe Wilkinson and Sara Pascoe vs Alan Carr and Josh Widdicombe. Dictionary Corner: Bill Bailey.</description>
       <pubDate>Sat, 17 Jun 2023 17:29:00 +0000</pubDate>
       <itunes:season>15</itunes:season>
       <itunes:episode>3</itunes:episode>
@@ -966,7 +966,7 @@
     <item>
       <title>S15E04: Johnny Vegas, Rhod Gilbert, Joe Wilkinson, Roisin Conaty, Tom Allen</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S15E04</guid>
-      <description>8 Out of 10 Cats Does Countdown - Johnny Vegas, Rhod Gilbert, Joe Wilkinson, Roisin Conaty, Tom Allen</description>
+      <description>Johnny Vegas and Rhod Gilbert vs Joe Wilkinson and Roisin Conaty. Dictionary Corner: Tom Allen.</description>
       <pubDate>Sat, 17 Jun 2023 19:53:00 +0000</pubDate>
       <itunes:season>15</itunes:season>
       <itunes:episode>4</itunes:episode>
@@ -976,7 +976,7 @@
     <item>
       <title>S16E01: Katherine Ryan, Roisin Conaty, Jessica Hynes, Sara Pascoe, Lolly Adefope, and Morgana Robinson as Natalie Cassidy</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S16E01</guid>
-      <description>8 Out of 10 Cats Does Countdown - Katherine Ryan, Roisin Conaty, Jessica Hynes, Sara Pascoe, Lolly Adefope, and Morgana Robinson as Natalie Cassidy</description>
+      <description>Sara Pascoe and Lolly Adefope vs Roisin Conaty and Jessica Hynes. Dictionary Corner: Morgana Robinson as "Natalie Cassidy".</description>
       <pubDate>Sat, 17 Jun 2023 22:18:00 +0000</pubDate>
       <itunes:season>16</itunes:season>
       <itunes:episode>1</itunes:episode>
@@ -986,7 +986,7 @@
     <item>
       <title>S16E02: Katherine Ryan, Joe Wilkinson, John Cooper Clarke</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S16E02</guid>
-      <description>8 Out of 10 Cats Does Countdown - Katherine Ryan, Joe Wilkinson, John Cooper Clarke</description>
+      <description>Sean Lock with Katherine Ryan vs Jon Richardson with Joe Wilkinson. Dictionary Corner: John Cooper Clarke.</description>
       <pubDate>Sun, 18 Jun 2023 00:40:00 +0000</pubDate>
       <itunes:season>16</itunes:season>
       <itunes:episode>2</itunes:episode>
@@ -996,7 +996,7 @@
     <item>
       <title>S16E03: Miles Jupp, Alan Carr, Roisin Conaty, Ivan Brackenbury</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S16E03</guid>
-      <description>8 Out of 10 Cats Does Countdown - Miles Jupp, Alan Carr, Roisin Conaty, Ivan Brackenbury</description>
+      <description>Sean Lock with Miles Jupp vs Alan Carr and Roisin Conaty. Dictionary Corner: Tom Binns as Ivan Brackenbury.</description>
       <pubDate>Sun, 18 Jun 2023 02:51:00 +0000</pubDate>
       <itunes:season>16</itunes:season>
       <itunes:episode>3</itunes:episode>
@@ -1006,7 +1006,7 @@
     <item>
       <title>S16E04: Rob Beckett, Claudia Winkleman, Nick Mohammed, Joe Wilkinson</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S16E04</guid>
-      <description>8 Out of 10 Cats Does Countdown - Rob Beckett, Claudia Winkleman, Nick Mohammed, Joe Wilkinson</description>
+      <description>Sean Lock with Rob Beckett vs Jon Richardson with Claudia Winkleman. Dictionary Corner: Nick Mohammed as Mr Swallow.</description>
       <pubDate>Sun, 18 Jun 2023 05:02:00 +0000</pubDate>
       <itunes:season>16</itunes:season>
       <itunes:episode>4</itunes:episode>
@@ -1016,7 +1016,7 @@
     <item>
       <title>S16E05: Phil Wang, Alan Carr, Harriet Kemsley, David O'Doherty, Joe Wilkinson</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S16E05</guid>
-      <description>8 Out of 10 Cats Does Countdown - Phil Wang, Alan Carr, Harriet Kemsley, David O'Doherty, Joe Wilkinson</description>
+      <description>Sean Lock with Phil Wang vs Alan Carr and Harriet Kemsley. Dictionary Corner: David O'Doherty.</description>
       <pubDate>Sun, 18 Jun 2023 07:10:00 +0000</pubDate>
       <itunes:season>16</itunes:season>
       <itunes:episode>5</itunes:episode>
@@ -1026,7 +1026,7 @@
     <item>
       <title>S16E06: Richard Ayoade, Jessica Knappett, Alex Horne</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S16E06</guid>
-      <description>8 Out of 10 Cats Does Countdown - Richard Ayoade, Jessica Knappett, Alex Horne</description>
+      <description>Sean Lock with Richard Ayoade vs Jon Richardson with Jessica Knappett. Dictionary Corner: Alex Horne and The Horne Section.</description>
       <pubDate>Sun, 18 Jun 2023 09:19:00 +0000</pubDate>
       <itunes:season>16</itunes:season>
       <itunes:episode>6</itunes:episode>
@@ -1036,7 +1036,7 @@
     <item>
       <title>S16E07: Kevin Bridges, Joe Wilkinson, Victoria Coren Mitchell, Adam Kay</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S16E07</guid>
-      <description>8 Out of 10 Cats Does Countdown - Kevin Bridges, Joe Wilkinson, Victoria Coren Mitchell, Adam Kay</description>
+      <description>Sean Lock with Kevin Bridges vs Joe Wilkinson and Victoria Coren Mitchell. Dictionary Corner: Adam Kay.</description>
       <pubDate>Sun, 18 Jun 2023 11:42:00 +0000</pubDate>
       <itunes:season>16</itunes:season>
       <itunes:episode>7</itunes:episode>
@@ -1046,7 +1046,7 @@
     <item>
       <title>S16E08: Roisin Conaty, Alan Carr, Joe Lycett, Spencer Jones</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S16E08</guid>
-      <description>8 Out of 10 Cats Does Countdown - Roisin Conaty, Alan Carr, Joe Lycett, Spencer Jones</description>
+      <description>Sean Lock with Roisin Conaty vs Alan Carr and Joe Lycett. Dictionary Corner: Spencer Jones.</description>
       <pubDate>Sat, 17 Jun 2023 11:22:00 +0000</pubDate>
       <itunes:season>16</itunes:season>
       <itunes:episode>8</itunes:episode>
@@ -1056,7 +1056,7 @@
     <item>
       <title>S17E00: Christmas Special 2018</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S17E00</guid>
-      <description>8 Out of 10 Cats Does Countdown - Christmas Special 2018</description>
+      <description>Christmas special: Sean Lock with Kathy Burke vs Jon Richardson with David Mitchell. Dictionary Corner: James Acaster.</description>
       <pubDate>Sun, 18 Jun 2023 16:22:00 +0000</pubDate>
       <itunes:season>17</itunes:season>
       <itunes:episode>0</itunes:episode>
@@ -1066,7 +1066,7 @@
     <item>
       <title>S17E01: Johnny Vegas, Alan Carr, Lou Sanders, The Brett Domino Trio</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S17E01</guid>
-      <description>8 Out of 10 Cats Does Countdown - Johnny Vegas, Alan Carr, Lou Sanders, The Brett Domino Trio</description>
+      <description>Sean Lock with Johnny Vegas vs Alan Carr and Lou Sanders. Dictionary Corner: Brett Domino Trio.</description>
       <pubDate>Sat, 17 Jun 2023 08:51:00 +0000</pubDate>
       <itunes:season>17</itunes:season>
       <itunes:episode>1</itunes:episode>
@@ -1076,7 +1076,7 @@
     <item>
       <title>S17E02: Claudia Winkleman, Henning Wehn, Nick Helm</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S17E02</guid>
-      <description>8 Out of 10 Cats Does Countdown - Claudia Winkleman, Henning Wehn, Nick Helm</description>
+      <description>Sean Lock with Claudia Winkleman vs Jon Richardson with Henning Wehn. Dictionary Corner: Nick Helm.</description>
       <pubDate>Sun, 18 Jun 2023 18:37:00 +0000</pubDate>
       <itunes:season>17</itunes:season>
       <itunes:episode>2</itunes:episode>
@@ -1086,7 +1086,7 @@
     <item>
       <title>S17E03: Joe Wilkinson, Richard Ayoade, Aisling Bea, Tom Allen</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S17E03</guid>
-      <description>8 Out of 10 Cats Does Countdown - Joe Wilkinson, Richard Ayoade, Aisling Bea, Tom Allen</description>
+      <description>Sean Lock with Joe Wilkinson vs Richard Ayoade and Aisling Bea. Dictionary Corner: Tom Allen.</description>
       <pubDate>Sun, 18 Jun 2023 20:52:00 +0000</pubDate>
       <itunes:season>17</itunes:season>
       <itunes:episode>3</itunes:episode>
@@ -1096,7 +1096,7 @@
     <item>
       <title>S17E04: David Mitchell, Sara Pascoe, Ellie White, Natasia Demetriou</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S17E04</guid>
-      <description>8 Out of 10 Cats Does Countdown - David Mitchell, Sara Pascoe, Ellie White, Natasia Demetriou</description>
+      <description>Sean Lock with David Mitchell vs Jon Richardson with Sara Pascoe. Dictionary Corner: Ellie White and Natasia Demetriou as "Mum's The Word".</description>
       <pubDate>Sun, 18 Jun 2023 22:59:00 +0000</pubDate>
       <itunes:season>17</itunes:season>
       <itunes:episode>4</itunes:episode>
@@ -1106,7 +1106,7 @@
     <item>
       <title>S17E05: Michelle Wolf, Rob Beckett, Spencer Jones</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S17E05</guid>
-      <description>8 Out of 10 Cats Does Countdown - Michelle Wolf, Rob Beckett, Spencer Jones</description>
+      <description>Sean Lock with Michelle Wolf vs Jon Richardson with Rob Beckett. Dictionary Corner: Spencer Jones.</description>
       <pubDate>Mon, 19 Jun 2023 01:14:00 +0000</pubDate>
       <itunes:season>17</itunes:season>
       <itunes:episode>5</itunes:episode>
@@ -1116,7 +1116,7 @@
     <item>
       <title>S17E06: Joe Wilkinson, Harriet Kemsley, James Veitch</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S17E06</guid>
-      <description>8 Out of 10 Cats Does Countdown - Joe Wilkinson, Harriet Kemsley, James Veitch</description>
+      <description>Sean Lock with Joe Wilkinson vs Jon Richardson with Harriet Kemsley. Dictionary Corner: James Veitch.</description>
       <pubDate>Mon, 19 Jun 2023 03:30:00 +0000</pubDate>
       <itunes:season>17</itunes:season>
       <itunes:episode>6</itunes:episode>
@@ -1126,7 +1126,7 @@
     <item>
       <title>S18E01: Miles Jupp, Rose Matafeo, Vic Reeves</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S18E01</guid>
-      <description>8 Out of 10 Cats Does Countdown - Miles Jupp, Rose Matafeo, Vic Reeves</description>
+      <description>Sean Lock with Miles Jupp vs Jon Richardson with Rose Matafeo. Dictionary Corner: Vic Reeves.</description>
       <pubDate>Mon, 19 Jun 2023 05:57:00 +0000</pubDate>
       <itunes:season>18</itunes:season>
       <itunes:episode>1</itunes:episode>
@@ -1136,7 +1136,7 @@
     <item>
       <title>S18E02: Victoria Coren Mitchell, James Acaster, Natalie Cassidy</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S18E02</guid>
-      <description>8 Out of 10 Cats Does Countdown - Victoria Coren Mitchell, James Acaster, Natalie Cassidy</description>
+      <description>Sean Lock with Victoria Coren Mitchell vs Jon Richardson with James Acaster. Dictionary Corner: Morgana Robinson as "Natalie Cassidy".</description>
       <pubDate>Mon, 19 Jun 2023 08:09:00 +0000</pubDate>
       <itunes:season>18</itunes:season>
       <itunes:episode>2</itunes:episode>
@@ -1146,7 +1146,7 @@
     <item>
       <title>S18E03: Joe Wilkinson, Sara Pascoe, Sam Simmons</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S18E03</guid>
-      <description>8 Out of 10 Cats Does Countdown - Joe Wilkinson, Sara Pascoe, Sam Simmons</description>
+      <description>Sean Lock with Joe Wilkinson vs Jon Richardson with Sara Pascoe. Dictionary Corner: Sam Simmons.</description>
       <pubDate>Mon, 19 Jun 2023 10:21:00 +0000</pubDate>
       <itunes:season>18</itunes:season>
       <itunes:episode>3</itunes:episode>
@@ -1156,7 +1156,7 @@
     <item>
       <title>S18E04: Rob Beckett, Alan Carr, Sarah Millican, Nick Mohammed</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S18E04</guid>
-      <description>8 Out of 10 Cats Does Countdown - Rob Beckett, Alan Carr, Sarah Millican, Nick Mohammed</description>
+      <description>Sean Lock with Rob Beckett vs Alan Carr and Sarah Millican. Dictionary Corner: Nick Mohammed as Mr Swallow.</description>
       <pubDate>Mon, 19 Jun 2023 12:35:00 +0000</pubDate>
       <itunes:season>18</itunes:season>
       <itunes:episode>4</itunes:episode>
@@ -1166,7 +1166,7 @@
     <item>
       <title>S18E05: Sara Pascoe, Alan Carr, Tom Allen, Rosie Jones</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S18E05</guid>
-      <description>8 Out of 10 Cats Does Countdown - Sara Pascoe, Alan Carr, Tom Allen, Rosie Jones</description>
+      <description>Sean Lock with Sara Pascoe vs Alan Carr and Tom Allen. Dictionary Corner: Rosie Jones.</description>
       <pubDate>Mon, 19 Jun 2023 15:35:00 +0000</pubDate>
       <itunes:season>18</itunes:season>
       <itunes:episode>5</itunes:episode>
@@ -1176,7 +1176,7 @@
     <item>
       <title>S18E06: Harriet Kemsley, Alan Carr, Catherine Tate, Adam Buxton</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S18E06</guid>
-      <description>8 Out of 10 Cats Does Countdown - Harriet Kemsley, Alan Carr, Catherine Tate, Adam Buxton</description>
+      <description>Sean Lock with Harriet Kemsley vs Alan Carr and Catherine Tate. Dictionary Corner: Adam Buxton.</description>
       <pubDate>Mon, 19 Jun 2023 17:52:00 +0000</pubDate>
       <itunes:season>18</itunes:season>
       <itunes:episode>6</itunes:episode>
@@ -1186,7 +1186,7 @@
     <item>
       <title>S18E07: Katherine Ryan, Joe Wilkinson, Adam Riches</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S18E07</guid>
-      <description>8 Out of 10 Cats Does Countdown - Katherine Ryan, Joe Wilkinson, Adam Riches</description>
+      <description>Sean Lock with Katherine Ryan vs Jon Richardson with Joe Wilkinson. Dictionary Corner: Adam Riches as "Sean Bean".</description>
       <pubDate>Sat, 17 Jun 2023 13:31:00 +0000</pubDate>
       <itunes:season>18</itunes:season>
       <itunes:episode>7</itunes:episode>
@@ -1196,7 +1196,7 @@
     <item>
       <title>S18E08: Christmas Special 2019</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S18E08</guid>
-      <description>8 Out of 10 Cats Does Countdown - Christmas Special 2019</description>
+      <description>Christmas special: Sean Lock with Bob Mortimer vs Jon Richardson with Lucy Beaumont. Dictionary Corner: Adam Buxton.</description>
       <pubDate>Sun, 18 Jun 2023 13:12:00 +0000</pubDate>
       <itunes:season>18</itunes:season>
       <itunes:episode>8</itunes:episode>
@@ -1206,7 +1206,7 @@
     <item>
       <title>S19E01: Harry Hill, Rose Matafeo, Alex Horne</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S19E01</guid>
-      <description>8 Out of 10 Cats Does Countdown - Harry Hill, Rose Matafeo, Alex Horne</description>
+      <description>Sean Lock with Harry Hill vs Jon Richardson with Rose Matafeo. Dictionary Corner: Alex Horne and The Horne Section.</description>
       <pubDate>Mon, 19 Jun 2023 20:15:00 +0000</pubDate>
       <itunes:season>19</itunes:season>
       <itunes:episode>1</itunes:episode>
@@ -1216,7 +1216,7 @@
     <item>
       <title>S19E02: Joe Wilkinson, Kiri Pritchard-McLean, The Brett Domino Trio</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S19E02</guid>
-      <description>8 Out of 10 Cats Does Countdown - Joe Wilkinson, Kiri Pritchard-McLean, The Brett Domino Trio</description>
+      <description>Sean Lock with Joe Wilkinson vs Jon Richardson with Kiri Pritchard-McLean. Dictionary Corner: Brett Domino Trio.</description>
       <pubDate>Fri, 02 Jun 2023 22:32:00 +0000</pubDate>
       <itunes:season>19</itunes:season>
       <itunes:episode>2</itunes:episode>
@@ -1226,7 +1226,7 @@
     <item>
       <title>S19E03: Richard Ayoade, Katherine Ryan, David O'Doherty</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S19E03</guid>
-      <description>8 Out of 10 Cats Does Countdown - Richard Ayoade, Katherine Ryan, David O'Doherty</description>
+      <description>Sean Lock with Richard Ayoade vs Jon Richardson with Katherine Ryan. Dictionary Corner: David O'Doherty.</description>
       <pubDate>Fri, 02 Jun 2023 23:58:00 +0000</pubDate>
       <itunes:season>19</itunes:season>
       <itunes:episode>3</itunes:episode>
@@ -1236,7 +1236,7 @@
     <item>
       <title>S19E04: Miles Jupp, Sophie Duker, Lee and Dean</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S19E04</guid>
-      <description>8 Out of 10 Cats Does Countdown - Miles Jupp, Sophie Duker, Lee and Dean</description>
+      <description>Sean Lock with Miles Jupp vs Jon Richardson with Sophie Duker. Dictionary Corner: Miles Chapman and Mark O'Sullivan as "Lee and Dean".</description>
       <pubDate>Sat, 03 Jun 2023 01:00:00 +0000</pubDate>
       <itunes:season>19</itunes:season>
       <itunes:episode>4</itunes:episode>
@@ -1246,7 +1246,7 @@
     <item>
       <title>S19E05: Kevin Bridges, Victoria Coren Mitchell, Spencer Jones</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S19E05</guid>
-      <description>8 Out of 10 Cats Does Countdown - Kevin Bridges, Victoria Coren Mitchell, Spencer Jones</description>
+      <description>Sean Lock with Kevin Bridges vs Jon Richardson with Victoria Coren Mitchell. Dictionary Corner: Spencer Jones.</description>
       <pubDate>Wed, 21 Jun 2023 03:44:00 +0000</pubDate>
       <itunes:season>19</itunes:season>
       <itunes:episode>5</itunes:episode>
@@ -1256,7 +1256,7 @@
     <item>
       <title>S19E06: Harriet Kemsley, Chris McCausland, Nick Helm</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S19E06</guid>
-      <description>8 Out of 10 Cats Does Countdown - Harriet Kemsley, Chris McCausland, Nick Helm</description>
+      <description>Sean Lock with Harriet Kemsley vs Jon Richardson with Chris McCausland. Dictionary Corner: Nick Helm.</description>
       <pubDate>Sat, 03 Jun 2023 03:11:00 +0000</pubDate>
       <itunes:season>19</itunes:season>
       <itunes:episode>6</itunes:episode>
@@ -1266,7 +1266,7 @@
     <item>
       <title>S20E01: Kerry Godliman, Joe Wilkinson, Mr Swallow</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S20E01</guid>
-      <description>8 Out of 10 Cats Does Countdown - Kerry Godliman, Joe Wilkinson, Mr Swallow</description>
+      <description>Sean Lock with Kerry Godliman vs Jon Richardson with Joe Wilkinson. Dictionary Corner: Nick Mohammed as Mr Swallow.</description>
       <pubDate>Sat, 03 Jun 2023 05:29:00 +0000</pubDate>
       <itunes:season>20</itunes:season>
       <itunes:episode>1</itunes:episode>
@@ -1276,7 +1276,7 @@
     <item>
       <title>S20E02: Tom Allen, Rosie Jones, Adam Riches</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S20E02</guid>
-      <description>8 Out of 10 Cats Does Countdown - Tom Allen, Rosie Jones, Adam Riches</description>
+      <description>Sean Lock with Rosie Jones vs Jon Richardson with Tom Allen. Dictionary Corner: Adam Riches as "Sean Bean".</description>
       <pubDate>Tue, 20 Jun 2023 08:53:00 +0000</pubDate>
       <itunes:season>20</itunes:season>
       <itunes:episode>2</itunes:episode>
@@ -1286,7 +1286,7 @@
     <item>
       <title>S20E03: Daisy May Cooper, Richard Ayoade, Ivo Graham, Adam Buxton</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S20E03</guid>
-      <description>8 Out of 10 Cats Does Countdown - Daisy May Cooper, Richard Ayoade, Ivo Graham, Adam Buxton</description>
+      <description>Sean Lock with Daisy May Cooper vs Richard Ayoade and Ivo Graham. Dictionary Corner: Adam Buxton.</description>
       <pubDate>Sat, 03 Jun 2023 08:33:00 +0000</pubDate>
       <itunes:season>20</itunes:season>
       <itunes:episode>3</itunes:episode>
@@ -1296,7 +1296,7 @@
     <item>
       <title>S20E04: Best Bits 1</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S20E04</guid>
-      <description>8 Out of 10 Cats Does Countdown - Best Bits 1</description>
+      <description>Best Bits 1: highlights edition featuring various guests.</description>
       <pubDate>Tue, 20 Jun 2023 10:40:00 +0000</pubDate>
       <itunes:season>20</itunes:season>
       <itunes:episode>4</itunes:episode>
@@ -1306,7 +1306,7 @@
     <item>
       <title>S20E05: Best Bits 2</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S20E05</guid>
-      <description>8 Out of 10 Cats Does Countdown - Best Bits 2</description>
+      <description>Best Bits 2: highlights edition featuring various guests.</description>
       <pubDate>Tue, 20 Jun 2023 12:27:00 +0000</pubDate>
       <itunes:season>20</itunes:season>
       <itunes:episode>5</itunes:episode>
@@ -1316,7 +1316,7 @@
     <item>
       <title>S20E06: Christmas Special 2020</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S20E06</guid>
-      <description>8 Out of 10 Cats Does Countdown - Christmas Special 2020</description>
+      <description>Christmas special: Sean Lock with David Mitchell vs Jon Richardson with Sarah Millican. Dictionary Corner: David O'Doherty.</description>
       <pubDate>Tue, 20 Jun 2023 14:02:00 +0000</pubDate>
       <itunes:season>20</itunes:season>
       <itunes:episode>6</itunes:episode>
@@ -1326,7 +1326,7 @@
     <item>
       <title>S21E01: Katherine Ryan, Joe Lycett, Johnny Vegas, Christopher Bliss</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S21E01</guid>
-      <description>8 Out of 10 Cats Does Countdown - Katherine Ryan, Joe Lycett, Johnny Vegas, Christopher Bliss</description>
+      <description>Sean Lock with Johnny Vegas vs Katherine Ryan and Joe Lycett. Dictionary Corner: Rob Carter as "Christopher Bliss".</description>
       <pubDate>Tue, 20 Jun 2023 16:30:00 +0000</pubDate>
       <itunes:season>21</itunes:season>
       <itunes:episode>1</itunes:episode>
@@ -1336,7 +1336,7 @@
     <item>
       <title>S21E02: Paul Foot, Angela Barnes, John Cooper Clarke</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S21E02</guid>
-      <description>8 Out of 10 Cats Does Countdown - Paul Foot, Angela Barnes, John Cooper Clarke</description>
+      <description>Sean Lock with Paul Foot vs Jon Richardson with Angela Barnes. Dictionary Corner: John Cooper Clarke.</description>
       <pubDate>Tue, 20 Jun 2023 17:58:00 +0000</pubDate>
       <itunes:season>21</itunes:season>
       <itunes:episode>2</itunes:episode>
@@ -1346,7 +1346,7 @@
     <item>
       <title>S21E03: Harriet Kemsley, Joe Lycett, Mat Ewins</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S21E03</guid>
-      <description>8 Out of 10 Cats Does Countdown - Harriet Kemsley, Joe Lycett, Mat Ewins</description>
+      <description>Sean Lock with Harriet Kemsley vs Jon Richardson with Joe Lycett. Dictionary Corner: Mat Ewins.</description>
       <pubDate>Tue, 20 Jun 2023 19:52:00 +0000</pubDate>
       <itunes:season>21</itunes:season>
       <itunes:episode>3</itunes:episode>
@@ -1356,7 +1356,7 @@
     <item>
       <title>S21E04: Sara Pascoe, Richard Ayoade, Nick Helm</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S21E04</guid>
-      <description>8 Out of 10 Cats Does Countdown - Sara Pascoe, Richard Ayoade, Nick Helm</description>
+      <description>Sean Lock with Richard Ayoade vs Jon Richardson with Sara Pascoe. Dictionary Corner: Nick Helm.</description>
       <pubDate>Tue, 20 Jun 2023 21:22:00 +0000</pubDate>
       <itunes:season>21</itunes:season>
       <itunes:episode>4</itunes:episode>
@@ -1366,7 +1366,7 @@
     <item>
       <title>S21E05: Lucy Beaumont, Roisin Conaty, Joe Wilkinson, Bec Hill</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S21E05</guid>
-      <description>8 Out of 10 Cats Does Countdown - Lucy Beaumont, Roisin Conaty, Joe Wilkinson, Bec Hill</description>
+      <description>Roisin Conaty and Joe Wilkinson vs Jon Richardson with Lucy Beaumont. Dictionary Corner: Bec Hill.</description>
       <pubDate>Tue, 20 Jun 2023 22:56:00 +0000</pubDate>
       <itunes:season>21</itunes:season>
       <itunes:episode>5</itunes:episode>
@@ -1376,7 +1376,7 @@
     <item>
       <title>S21E06: Joe Wilkinson, Lee Mack, Katherine Ryan, Brett Domino</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S21E06</guid>
-      <description>8 Out of 10 Cats Does Countdown - Joe Wilkinson, Lee Mack, Katherine Ryan, Brett Domino</description>
+      <description>Lee Mack and Katherine Ryan vs Jon Richardson with Joe Wilkinson. Dictionary Corner: Brett Domino Trio.</description>
       <pubDate>Tue, 20 Jun 2023 00:39:00 +0000</pubDate>
       <itunes:season>21</itunes:season>
       <itunes:episode>6</itunes:episode>
@@ -1386,7 +1386,7 @@
     <item>
       <title>S22E00: Christmas Special 2021</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S22E00</guid>
-      <description>8 Out of 10 Cats Does Countdown - Christmas Special 2021</description>
+      <description>Christmas special: Lee Mack and Jason Manford vs Jon Richardson with Sarah Millican. Dictionary Corner: Nick Mohammed as Mr Swallow.</description>
       <pubDate>Wed, 21 Jun 2023 00:34:00 +0000</pubDate>
       <itunes:season>22</itunes:season>
       <itunes:episode>0</itunes:episode>
@@ -1396,7 +1396,7 @@
     <item>
       <title>S22E01: Roisin Conaty, Kiri Pritchard-McLean, Rob Beckett, Huge Davies</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S22E01</guid>
-      <description>8 Out of 10 Cats Does Countdown - Roisin Conaty, Kiri Pritchard-McLean, Rob Beckett, Huge Davies</description>
+      <description>Roisin Conaty and Kiri Pritchard-McLean vs Jon Richardson with Rob Beckett. Dictionary Corner: Huge Davies.</description>
       <pubDate>Wed, 21 Jun 2023 05:13:00 +0000</pubDate>
       <itunes:season>22</itunes:season>
       <itunes:episode>1</itunes:episode>
@@ -1406,7 +1406,7 @@
     <item>
       <title>S22E02: Jack Dee, Tom Allen, Judi Love, John Cooper Clarke</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S22E02</guid>
-      <description>8 Out of 10 Cats Does Countdown - Jack Dee, Tom Allen, Judi Love, John Cooper Clarke</description>
+      <description>Jack Dee and Tom Allen vs Jon Richardson with Judi Love. Dictionary Corner: John Cooper Clarke.</description>
       <pubDate>Mon, 19 Jun 2023 21:52:00 +0000</pubDate>
       <itunes:season>22</itunes:season>
       <itunes:episode>2</itunes:episode>
@@ -1416,7 +1416,7 @@
     <item>
       <title>S22E03: Roisin Conaty, Asim Chaudhry, Josh Widdicombe, Bill Bailey</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S22E03</guid>
-      <description>8 Out of 10 Cats Does Countdown - Roisin Conaty, Asim Chaudhry, Josh Widdicombe, Bill Bailey</description>
+      <description>Roisin Conaty and Asim Chaudhry vs Jon Richardson with Josh Widdicombe. Dictionary Corner: Bill Bailey.</description>
       <pubDate>Wed, 21 Jun 2023 06:49:00 +0000</pubDate>
       <itunes:season>22</itunes:season>
       <itunes:episode>3</itunes:episode>
@@ -1426,7 +1426,7 @@
     <item>
       <title>S22E04: Lee Mack, Joe Wilkinson, Jessica Knappett, Nigel Ng</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S22E04</guid>
-      <description>8 Out of 10 Cats Does Countdown - Lee Mack, Joe Wilkinson, Jessica Knappett, Nigel Ng</description>
+      <description>Lee Mack and Joe Wilkinson vs Jon Richardson with Jessica Knappett. Dictionary Corner: Nigel Ng.</description>
       <pubDate>Wed, 21 Jun 2023 08:16:00 +0000</pubDate>
       <itunes:season>22</itunes:season>
       <itunes:episode>4</itunes:episode>
@@ -1436,7 +1436,7 @@
     <item>
       <title>S22E05: Sarah Millican, Nish Kumar, Maisie Adam, David O'Doherty</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S22E05</guid>
-      <description>8 Out of 10 Cats Does Countdown - Sarah Millican, Nish Kumar, Maisie Adam, David O'Doherty</description>
+      <description>Sarah Millican and Nish Kumar vs Jon Richardson with Maisie Adam. Dictionary Corner: David O'Doherty.</description>
       <pubDate>Wed, 21 Jun 2023 09:43:00 +0000</pubDate>
       <itunes:season>22</itunes:season>
       <itunes:episode>5</itunes:episode>
@@ -1446,7 +1446,7 @@
     <item>
       <title>S22E06: Sean Lock, Harry Hill, Jon Richardson, Rosie Jones</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S22E06</guid>
-      <description>8 Out of 10 Cats Does Countdown - Sean Lock, Harry Hill, Jon Richardson, Rosie Jones</description>
+      <description>Sean Lock with Harry Hill vs Jon Richardson with Rosie Jones. Dictionary Corner: Nick Mohammed as Mr Swallow.</description>
       <pubDate>Wed, 21 Jun 2023 11:11:00 +0000</pubDate>
       <itunes:season>22</itunes:season>
       <itunes:episode>6</itunes:episode>
@@ -1456,7 +1456,7 @@
     <item>
       <title>S23E01: Lucy Beaumont, Richard Ayoade, Joe Wilkinson, Finlay Christie</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S23E01</guid>
-      <description>8 Out of 10 Cats Does Countdown - Lucy Beaumont, Richard Ayoade, Joe Wilkinson, Finlay Christie</description>
+      <description>Richard Ayoade and Joe Wilkinson vs Jon Richardson with Lucy Beaumont. Dictionary Corner: Finlay Christie.</description>
       <pubDate>Wed, 21 Jun 2023 12:48:00 +0000</pubDate>
       <itunes:season>23</itunes:season>
       <itunes:episode>1</itunes:episode>
@@ -1466,7 +1466,7 @@
     <item>
       <title>S23E02: Alan Carr, Harriet Kemsley, Jonathan Ross, Maisie Adam, Huge Davies</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S23E02</guid>
-      <description>8 Out of 10 Cats Does Countdown - Alan Carr, Harriet Kemsley, Jonathan Ross, Maisie Adam, Huge Davies</description>
+      <description>Alan Carr and Harriet Kemsley vs Jonathan Ross and Maisie Adam. Dictionary Corner: Huge Davies.</description>
       <pubDate>Wed, 21 Jun 2023 14:26:00 +0000</pubDate>
       <itunes:season>23</itunes:season>
       <itunes:episode>2</itunes:episode>
@@ -1476,7 +1476,7 @@
     <item>
       <title>S24E00: Christmas Special 2022</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S24E00</guid>
-      <description>8 Out of 10 Cats Does Countdown - Christmas Special 2022</description>
+      <description>Christmas special: Lee Mack and Rose Matafeo vs Jon Richardson with Jack Dee. Dictionary Corner: Stevie Martin.</description>
       <pubDate>Wed, 21 Jun 2023 02:16:00 +0000</pubDate>
       <itunes:season>24</itunes:season>
       <itunes:episode>0</itunes:episode>
@@ -1486,7 +1486,7 @@
     <item>
       <title>S24E01: Jonathan Ross, Joe Wilkinson, Roisin Conaty, Ahir Shah, Catherine Cohen</title>
       <guid isPermaLink="false">CATSCOUNTDOWN-S24E01</guid>
-      <description>8 Out of 10 Cats Does Countdown - Jonathan Ross, Joe Wilkinson, Roisin Conaty, Ahir Shah, Catherine Cohen</description>
+      <description>Jonathan Ross and Joe Wilkinson vs Roisin Conaty and Ahir Shah. Dictionary Corner: Catherine Cohen.</description>
       <pubDate>Tue, 13 Jun 2023 14:41:00 +0000</pubDate>
       <itunes:season>24</itunes:season>
       <itunes:episode>1</itunes:episode>
